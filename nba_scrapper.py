@@ -2,10 +2,25 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import pandas as pd
 
+# set year
+year = 2019
+
+# scrape url
+scheduleUrl = "https://www.basketball-reference.com/leagues/NBA_{}_games.html".format(year)
+
+url = scheduleUrl
+html = urlopen(url)
+soup = BeautifulSoup(html, features="html5lib")
+
+soup.findAll('tr', limit=2)
+headers = [th.getText() for th in soup.findAll('tr', limit=2)[0].findAll('th')]
+headers = headers[0:]
+print(headers)
+'''
 # NBA season we will be analyzing
 year = 2019
 # URL page we will scraping (see image above)
-url = "https://www.basketball-reference.com/leagues/NBA_{}_per_game.html".format(year)
+url = "https://www.basketball-reference.com/leagues/NBA_{}_games.html".format(year)
 # this is the HTML from the given URL
 html = urlopen(url)
 soup = BeautifulSoup(html, features="html5lib")
@@ -24,3 +39,4 @@ player_stats = [[td.getText() for td in rows[i].findAll('td')] for i in range(le
 stats = pd.DataFrame(player_stats, columns = headers)
 
 print(stats.head(10))
+'''
