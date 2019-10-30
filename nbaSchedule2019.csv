@@ -1,0 +1,1314 @@
+Date,Home/Neutral,Visitor/Neutral,Diifference
+"Tue, Oct 16, 2018",Boston Celtics,Philadelphia 76ers,18.0
+"Tue, Oct 16, 2018",Golden State Warriors,Oklahoma City Thunder,8.0
+"Wed, Oct 17, 2018",Charlotte Hornets,Milwaukee Bucks,-1.0
+"Wed, Oct 17, 2018",Detroit Pistons,Brooklyn Nets,3.0
+"Wed, Oct 17, 2018",Indiana Pacers,Memphis Grizzlies,28.0
+"Wed, Oct 17, 2018",Orlando Magic,Miami Heat,3.0
+"Wed, Oct 17, 2018",New York Knicks,Atlanta Hawks,19.0
+"Wed, Oct 17, 2018",Toronto Raptors,Cleveland Cavaliers,12.0
+"Wed, Oct 17, 2018",Houston Rockets,New Orleans Pelicans,-19.0
+"Wed, Oct 17, 2018",San Antonio Spurs,Minnesota Timberwolves,4.0
+"Wed, Oct 17, 2018",Sacramento Kings,Utah Jazz,-6.0
+"Wed, Oct 17, 2018",Los Angeles Clippers,Denver Nuggets,-9.0
+"Wed, Oct 17, 2018",Phoenix Suns,Dallas Mavericks,21.0
+"Thu, Oct 18, 2018",Philadelphia 76ers,Chicago Bulls,19.0
+"Thu, Oct 18, 2018",Washington Wizards,Miami Heat,-1.0
+"Thu, Oct 18, 2018",Portland Trail Blazers,Los Angeles Lakers,9.0
+"Fri, Oct 19, 2018",Orlando Magic,Charlotte Hornets,-32.0
+"Fri, Oct 19, 2018",Brooklyn Nets,New York Knicks,2.0
+"Fri, Oct 19, 2018",Memphis Grizzlies,Atlanta Hawks,14.0
+"Fri, Oct 19, 2018",Minnesota Timberwolves,Cleveland Cavaliers,8.0
+"Fri, Oct 19, 2018",New Orleans Pelicans,Sacramento Kings,20.0
+"Fri, Oct 19, 2018",Toronto Raptors,Boston Celtics,12.0
+"Fri, Oct 19, 2018",Milwaukee Bucks,Indiana Pacers,17.0
+"Fri, Oct 19, 2018",Los Angeles Clippers,Oklahoma City Thunder,16.0
+"Fri, Oct 19, 2018",Utah Jazz,Golden State Warriors,-1.0
+"Sat, Oct 20, 2018",Indiana Pacers,Brooklyn Nets,20.0
+"Sat, Oct 20, 2018",Washington Wizards,Toronto Raptors,-4.0
+"Sat, Oct 20, 2018",New York Knicks,Boston Celtics,-2.0
+"Sat, Oct 20, 2018",Philadelphia 76ers,Orlando Magic,1.0
+"Sat, Oct 20, 2018",Chicago Bulls,Detroit Pistons,-2.0
+"Sat, Oct 20, 2018",Miami Heat,Charlotte Hornets,-1.0
+"Sat, Oct 20, 2018",Dallas Mavericks,Minnesota Timberwolves,4.0
+"Sat, Oct 20, 2018",Denver Nuggets,Phoenix Suns,28.0
+"Sat, Oct 20, 2018",Portland Trail Blazers,San Antonio Spurs,13.0
+"Sat, Oct 20, 2018",Los Angeles Lakers,Houston Rockets,-9.0
+"Sun, Oct 21, 2018",Cleveland Cavaliers,Atlanta Hawks,-22.0
+"Sun, Oct 21, 2018",Oklahoma City Thunder,Sacramento Kings,-11.0
+"Sun, Oct 21, 2018",Denver Nuggets,Golden State Warriors,2.0
+"Sun, Oct 21, 2018",Los Angeles Clippers,Houston Rockets,3.0
+"Mon, Oct 22, 2018",Boston Celtics,Orlando Magic,-3.0
+"Mon, Oct 22, 2018",Toronto Raptors,Charlotte Hornets,21.0
+"Mon, Oct 22, 2018",Milwaukee Bucks,New York Knicks,11.0
+"Mon, Oct 22, 2018",Minnesota Timberwolves,Indiana Pacers,10.0
+"Mon, Oct 22, 2018",Dallas Mavericks,Chicago Bulls,6.0
+"Mon, Oct 22, 2018",Utah Jazz,Memphis Grizzlies,-8.0
+"Mon, Oct 22, 2018",Portland Trail Blazers,Washington Wizards,-1.0
+"Mon, Oct 22, 2018",Golden State Warriors,Phoenix Suns,20.0
+"Mon, Oct 22, 2018",Los Angeles Lakers,San Antonio Spurs,-1.0
+"Tue, Oct 23, 2018",Detroit Pistons,Philadelphia 76ers,1.0
+"Tue, Oct 23, 2018",New Orleans Pelicans,Los Angeles Clippers,7.0
+"Tue, Oct 23, 2018",Denver Nuggets,Sacramento Kings,14.0
+"Wed, Oct 24, 2018",Atlanta Hawks,Dallas Mavericks,7.0
+"Wed, Oct 24, 2018",Cleveland Cavaliers,Brooklyn Nets,-16.0
+"Wed, Oct 24, 2018",Miami Heat,New York Knicks,23.0
+"Wed, Oct 24, 2018",Toronto Raptors,Minnesota Timberwolves,7.0
+"Wed, Oct 24, 2018",Chicago Bulls,Charlotte Hornets,2.0
+"Wed, Oct 24, 2018",Houston Rockets,Utah Jazz,-11.0
+"Wed, Oct 24, 2018",San Antonio Spurs,Indiana Pacers,-20.0
+"Wed, Oct 24, 2018",Milwaukee Bucks,Philadelphia 76ers,15.0
+"Wed, Oct 24, 2018",Phoenix Suns,Los Angeles Lakers,-18.0
+"Wed, Oct 24, 2018",Sacramento Kings,Memphis Grizzlies,5.0
+"Wed, Oct 24, 2018",Golden State Warriors,Washington Wizards,22.0
+"Thu, Oct 25, 2018",Detroit Pistons,Cleveland Cavaliers,7.0
+"Thu, Oct 25, 2018",Orlando Magic,Portland Trail Blazers,-14.0
+"Thu, Oct 25, 2018",Oklahoma City Thunder,Boston Celtics,-6.0
+"Thu, Oct 25, 2018",Los Angeles Lakers,Denver Nuggets,7.0
+"Fri, Oct 26, 2018",Charlotte Hornets,Chicago Bulls,29.0
+"Fri, Oct 26, 2018",New York Knicks,Golden State Warriors,-28.0
+"Fri, Oct 26, 2018",Toronto Raptors,Dallas Mavericks,9.0
+"Fri, Oct 26, 2018",Houston Rockets,Los Angeles Clippers,-20.0
+"Fri, Oct 26, 2018",Minnesota Timberwolves,Milwaukee Bucks,-30.0
+"Fri, Oct 26, 2018",New Orleans Pelicans,Brooklyn Nets,2.0
+"Fri, Oct 26, 2018",Sacramento Kings,Washington Wizards,4.0
+"Sat, Oct 27, 2018",Detroit Pistons,Boston Celtics,-20.0
+"Sat, Oct 27, 2018",New Orleans Pelicans,Utah Jazz,-21.0
+"Sat, Oct 27, 2018",Atlanta Hawks,Chicago Bulls,-12.0
+"Sat, Oct 27, 2018",Cleveland Cavaliers,Indiana Pacers,-12.0
+"Sat, Oct 27, 2018",Philadelphia 76ers,Charlotte Hornets,2.0
+"Sat, Oct 27, 2018",Memphis Grizzlies,Phoenix Suns,21.0
+"Sat, Oct 27, 2018",Miami Heat,Portland Trail Blazers,9.0
+"Sat, Oct 27, 2018",Milwaukee Bucks,Orlando Magic,22.0
+"Sat, Oct 27, 2018",San Antonio Spurs,Los Angeles Lakers,4.0
+"Sun, Oct 28, 2018",Brooklyn Nets,Golden State Warriors,-6.0
+"Sun, Oct 28, 2018",Dallas Mavericks,Utah Jazz,-9.0
+"Sun, Oct 28, 2018",Oklahoma City Thunder,Phoenix Suns,7.0
+"Sun, Oct 28, 2018",Los Angeles Clippers,Washington Wizards,32.0
+"Mon, Oct 29, 2018",Indiana Pacers,Portland Trail Blazers,-10.0
+"Mon, Oct 29, 2018",Philadelphia 76ers,Atlanta Hawks,21.0
+"Mon, Oct 29, 2018",Miami Heat,Sacramento Kings,-10.0
+"Mon, Oct 29, 2018",New York Knicks,Brooklyn Nets,19.0
+"Mon, Oct 29, 2018",Chicago Bulls,Golden State Warriors,-25.0
+"Mon, Oct 29, 2018",Milwaukee Bucks,Toronto Raptors,15.0
+"Mon, Oct 29, 2018",Minnesota Timberwolves,Los Angeles Lakers,4.0
+"Mon, Oct 29, 2018",San Antonio Spurs,Dallas Mavericks,5.0
+"Mon, Oct 29, 2018",Denver Nuggets,New Orleans Pelicans,5.0
+"Tue, Oct 30, 2018",Charlotte Hornets,Miami Heat,12.0
+"Tue, Oct 30, 2018",Cleveland Cavaliers,Atlanta Hawks,22.0
+"Tue, Oct 30, 2018",Orlando Magic,Sacramento Kings,-8.0
+"Tue, Oct 30, 2018",Boston Celtics,Detroit Pistons,3.0
+"Tue, Oct 30, 2018",Toronto Raptors,Philadelphia 76ers,17.0
+"Tue, Oct 30, 2018",Houston Rockets,Portland Trail Blazers,-19.0
+"Tue, Oct 30, 2018",Memphis Grizzlies,Washington Wizards,12.0
+"Tue, Oct 30, 2018",Oklahoma City Thunder,Los Angeles Clippers,18.0
+"Wed, Oct 31, 2018",Brooklyn Nets,Detroit Pistons,1.0
+"Wed, Oct 31, 2018",Chicago Bulls,Denver Nuggets,-1.0
+"Wed, Oct 31, 2018",Minnesota Timberwolves,Utah Jazz,3.0
+"Wed, Oct 31, 2018",New York Knicks,Indiana Pacers,-6.0
+"Wed, Oct 31, 2018",Golden State Warriors,New Orleans Pelicans,10.0
+"Wed, Oct 31, 2018",Los Angeles Lakers,Dallas Mavericks,1.0
+"Wed, Oct 31, 2018",Phoenix Suns,San Antonio Spurs,-30.0
+"Thu, Nov 1, 2018",Charlotte Hornets,Oklahoma City Thunder,-4.0
+"Thu, Nov 1, 2018",Cleveland Cavaliers,Denver Nuggets,-19.0
+"Thu, Nov 1, 2018",Philadelphia 76ers,Los Angeles Clippers,9.0
+"Thu, Nov 1, 2018",Atlanta Hawks,Sacramento Kings,-31.0
+"Thu, Nov 1, 2018",Boston Celtics,Milwaukee Bucks,4.0
+"Thu, Nov 1, 2018",Portland Trail Blazers,New Orleans Pelicans,13.0
+"Fri, Nov 2, 2018",Orlando Magic,Los Angeles Clippers,-25.0
+"Fri, Nov 2, 2018",Brooklyn Nets,Houston Rockets,-8.0
+"Fri, Nov 2, 2018",Chicago Bulls,Indiana Pacers,-2.0
+"Fri, Nov 2, 2018",Washington Wizards,Oklahoma City Thunder,-23.0
+"Fri, Nov 2, 2018",Dallas Mavericks,New York Knicks,-12.0
+"Fri, Nov 2, 2018",Utah Jazz,Memphis Grizzlies,-10.0
+"Fri, Nov 2, 2018",Phoenix Suns,Toronto Raptors,-9.0
+"Fri, Nov 2, 2018",Golden State Warriors,Minnesota Timberwolves,17.0
+"Sat, Nov 3, 2018",Philadelphia 76ers,Detroit Pistons,10.0
+"Sat, Nov 3, 2018",Charlotte Hornets,Cleveland Cavaliers,32.0
+"Sat, Nov 3, 2018",Indiana Pacers,Boston Celtics,1.0
+"Sat, Nov 3, 2018",Atlanta Hawks,Miami Heat,5.0
+"Sat, Nov 3, 2018",Chicago Bulls,Houston Rockets,-8.0
+"Sat, Nov 3, 2018",San Antonio Spurs,New Orleans Pelicans,14.0
+"Sat, Nov 3, 2018",Denver Nuggets,Utah Jazz,15.0
+"Sat, Nov 3, 2018",Portland Trail Blazers,Los Angeles Lakers,-4.0
+"Sun, Nov 4, 2018",Milwaukee Bucks,Sacramento Kings,35.0
+"Sun, Nov 4, 2018",Brooklyn Nets,Philadelphia 76ers,25.0
+"Sun, Nov 4, 2018",Washington Wizards,New York Knicks,13.0
+"Sun, Nov 4, 2018",San Antonio Spurs,Orlando Magic,-7.0
+"Sun, Nov 4, 2018",Phoenix Suns,Memphis Grizzlies,2.0
+"Sun, Nov 4, 2018",Portland Trail Blazers,Minnesota Timberwolves,30.0
+"Sun, Nov 4, 2018",Los Angeles Lakers,Toronto Raptors,-14.0
+"Mon, Nov 5, 2018",Detroit Pistons,Miami Heat,-5.0
+"Mon, Nov 5, 2018",Indiana Pacers,Houston Rockets,-4.0
+"Mon, Nov 5, 2018",Orlando Magic,Cleveland Cavaliers,2.0
+"Mon, Nov 5, 2018",New York Knicks,Chicago Bulls,-1.0
+"Mon, Nov 5, 2018",Oklahoma City Thunder,New Orleans Pelicans,6.0
+"Mon, Nov 5, 2018",Denver Nuggets,Boston Celtics,8.0
+"Mon, Nov 5, 2018",Utah Jazz,Toronto Raptors,-13.0
+"Mon, Nov 5, 2018",Golden State Warriors,Memphis Grizzlies,16.0
+"Mon, Nov 5, 2018",Los Angeles Clippers,Minnesota Timberwolves,11.0
+"Tue, Nov 6, 2018",Charlotte Hornets,Atlanta Hawks,11.0
+"Tue, Nov 6, 2018",Dallas Mavericks,Washington Wizards,19.0
+"Tue, Nov 6, 2018",Phoenix Suns,Brooklyn Nets,-22.0
+"Tue, Nov 6, 2018",Portland Trail Blazers,Milwaukee Bucks,15.0
+"Wed, Nov 7, 2018",Cleveland Cavaliers,Oklahoma City Thunder,-9.0
+"Wed, Nov 7, 2018",Orlando Magic,Detroit Pistons,-7.0
+"Wed, Nov 7, 2018",Atlanta Hawks,New York Knicks,-5.0
+"Wed, Nov 7, 2018",Miami Heat,San Antonio Spurs,7.0
+"Wed, Nov 7, 2018",Indiana Pacers,Philadelphia 76ers,-6.0
+"Wed, Nov 7, 2018",Memphis Grizzlies,Denver Nuggets,2.0
+"Wed, Nov 7, 2018",New Orleans Pelicans,Chicago Bulls,9.0
+"Wed, Nov 7, 2018",Utah Jazz,Dallas Mavericks,15.0
+"Wed, Nov 7, 2018",Sacramento Kings,Toronto Raptors,-9.0
+"Wed, Nov 7, 2018",Los Angeles Lakers,Minnesota Timberwolves,4.0
+"Thu, Nov 8, 2018",Oklahoma City Thunder,Houston Rockets,18.0
+"Thu, Nov 8, 2018",Phoenix Suns,Boston Celtics,-7.0
+"Thu, Nov 8, 2018",Portland Trail Blazers,Los Angeles Clippers,11.0
+"Thu, Nov 8, 2018",Golden State Warriors,Milwaukee Bucks,-23.0
+"Fri, Nov 9, 2018",Orlando Magic,Washington Wizards,9.0
+"Fri, Nov 9, 2018",Philadelphia 76ers,Charlotte Hornets,1.0
+"Fri, Nov 9, 2018",Atlanta Hawks,Detroit Pistons,-15.0
+"Fri, Nov 9, 2018",Miami Heat,Indiana Pacers,-8.0
+"Fri, Nov 9, 2018",Denver Nuggets,Brooklyn Nets,-2.0
+"Fri, Nov 9, 2018",Utah Jazz,Boston Celtics,8.0
+"Fri, Nov 9, 2018",Sacramento Kings,Minnesota Timberwolves,11.0
+"Sat, Nov 10, 2018",Toronto Raptors,New York Knicks,16.0
+"Sat, Nov 10, 2018",Los Angeles Clippers,Milwaukee Bucks,2.0
+"Sat, Nov 10, 2018",New Orleans Pelicans,Phoenix Suns,20.0
+"Sat, Nov 10, 2018",Chicago Bulls,Cleveland Cavaliers,1.0
+"Sat, Nov 10, 2018",Memphis Grizzlies,Philadelphia 76ers,6.0
+"Sat, Nov 10, 2018",Miami Heat,Washington Wizards,-6.0
+"Sat, Nov 10, 2018",Golden State Warriors,Brooklyn Nets,16.0
+"Sat, Nov 10, 2018",San Antonio Spurs,Houston Rockets,7.0
+"Sat, Nov 10, 2018",Dallas Mavericks,Oklahoma City Thunder,15.0
+"Sat, Nov 10, 2018",Sacramento Kings,Los Angeles Lakers,-15.0
+"Sun, Nov 11, 2018",Detroit Pistons,Charlotte Hornets,-10.0
+"Sun, Nov 11, 2018",Houston Rockets,Indiana Pacers,12.0
+"Sun, Nov 11, 2018",New York Knicks,Orlando Magic,-26.0
+"Sun, Nov 11, 2018",Denver Nuggets,Milwaukee Bucks,-7.0
+"Sun, Nov 11, 2018",Portland Trail Blazers,Boston Celtics,6.0
+"Sun, Nov 11, 2018",Los Angeles Lakers,Atlanta Hawks,1.0
+"Mon, Nov 12, 2018",Washington Wizards,Orlando Magic,8.0
+"Mon, Nov 12, 2018",Miami Heat,Philadelphia 76ers,-10.0
+"Mon, Nov 12, 2018",Toronto Raptors,New Orleans Pelicans,-16.0
+"Mon, Nov 12, 2018",Chicago Bulls,Dallas Mavericks,-5.0
+"Mon, Nov 12, 2018",Memphis Grizzlies,Utah Jazz,-8.0
+"Mon, Nov 12, 2018",Minnesota Timberwolves,Brooklyn Nets,7.0
+"Mon, Nov 12, 2018",Oklahoma City Thunder,Phoenix Suns,17.0
+"Mon, Nov 12, 2018",Sacramento Kings,San Antonio Spurs,5.0
+"Mon, Nov 12, 2018",Los Angeles Clippers,Golden State Warriors,5.0
+"Tue, Nov 13, 2018",Cleveland Cavaliers,Charlotte Hornets,24.0
+"Tue, Nov 13, 2018",Denver Nuggets,Houston Rockets,-10.0
+"Tue, Nov 13, 2018",Golden State Warriors,Atlanta Hawks,7.0
+"Wed, Nov 14, 2018",Orlando Magic,Philadelphia 76ers,5.0
+"Wed, Nov 14, 2018",Washington Wizards,Cleveland Cavaliers,24.0
+"Wed, Nov 14, 2018",Boston Celtics,Chicago Bulls,29.0
+"Wed, Nov 14, 2018",Brooklyn Nets,Miami Heat,-13.0
+"Wed, Nov 14, 2018",Toronto Raptors,Detroit Pistons,-2.0
+"Wed, Nov 14, 2018",Milwaukee Bucks,Memphis Grizzlies,-3.0
+"Wed, Nov 14, 2018",Minnesota Timberwolves,New Orleans Pelicans,7.0
+"Wed, Nov 14, 2018",Oklahoma City Thunder,New York Knicks,25.0
+"Wed, Nov 14, 2018",Dallas Mavericks,Utah Jazz,50.0
+"Wed, Nov 14, 2018",Phoenix Suns,San Antonio Spurs,20.0
+"Wed, Nov 14, 2018",Los Angeles Lakers,Portland Trail Blazers,9.0
+"Thu, Nov 15, 2018",Houston Rockets,Golden State Warriors,21.0
+"Thu, Nov 15, 2018",Denver Nuggets,Atlanta Hawks,45.0
+"Thu, Nov 15, 2018",Los Angeles Clippers,San Antonio Spurs,5.0
+"Fri, Nov 16, 2018",Boston Celtics,Toronto Raptors,7.0
+"Fri, Nov 16, 2018",Indiana Pacers,Miami Heat,8.0
+"Fri, Nov 16, 2018",Philadelphia 76ers,Utah Jazz,6.0
+"Fri, Nov 16, 2018",Washington Wizards,Brooklyn Nets,-11.0
+"Fri, Nov 16, 2018",Memphis Grizzlies,Sacramento Kings,8.0
+"Fri, Nov 16, 2018",Minnesota Timberwolves,Portland Trail Blazers,16.0
+"Fri, Nov 16, 2018",New Orleans Pelicans,New York Knicks,5.0
+"Fri, Nov 16, 2018",Milwaukee Bucks,Chicago Bulls,19.0
+"Sat, Nov 17, 2018",Brooklyn Nets,Los Angeles Clippers,-8.0
+"Sat, Nov 17, 2018",Charlotte Hornets,Philadelphia 76ers,-3.0
+"Sat, Nov 17, 2018",Indiana Pacers,Atlanta Hawks,8.0
+"Sat, Nov 17, 2018",New Orleans Pelicans,Denver Nuggets,10.0
+"Sat, Nov 17, 2018",Orlando Magic,Los Angeles Lakers,13.0
+"Sat, Nov 17, 2018",Boston Celtics,Utah Jazz,-12.0
+"Sat, Nov 17, 2018",Chicago Bulls,Toronto Raptors,-39.0
+"Sat, Nov 17, 2018",Houston Rockets,Sacramento Kings,20.0
+"Sat, Nov 17, 2018",Dallas Mavericks,Golden State Warriors,3.0
+"Sat, Nov 17, 2018",Phoenix Suns,Oklahoma City Thunder,-10.0
+"Sun, Nov 18, 2018",Minnesota Timberwolves,Memphis Grizzlies,-13.0
+"Sun, Nov 18, 2018",Miami Heat,Los Angeles Lakers,-16.0
+"Sun, Nov 18, 2018",Orlando Magic,New York Knicks,14.0
+"Sun, Nov 18, 2018",Washington Wizards,Portland Trail Blazers,-10.0
+"Sun, Nov 18, 2018",San Antonio Spurs,Golden State Warriors,12.0
+"Mon, Nov 19, 2018",Charlotte Hornets,Boston Celtics,5.0
+"Mon, Nov 19, 2018",Detroit Pistons,Cleveland Cavaliers,11.0
+"Mon, Nov 19, 2018",Indiana Pacers,Utah Jazz,27.0
+"Mon, Nov 19, 2018",Philadelphia 76ers,Phoenix Suns,5.0
+"Mon, Nov 19, 2018",Atlanta Hawks,Los Angeles Clippers,-8.0
+"Mon, Nov 19, 2018",Memphis Grizzlies,Dallas Mavericks,10.0
+"Mon, Nov 19, 2018",Milwaukee Bucks,Denver Nuggets,6.0
+"Mon, Nov 19, 2018",New Orleans Pelicans,San Antonio Spurs,14.0
+"Mon, Nov 19, 2018",Sacramento Kings,Oklahoma City Thunder,4.0
+"Tue, Nov 20, 2018",Orlando Magic,Toronto Raptors,-2.0
+"Tue, Nov 20, 2018",Washington Wizards,Los Angeles Clippers,7.0
+"Tue, Nov 20, 2018",Miami Heat,Brooklyn Nets,-12.0
+"Tue, Nov 20, 2018",New York Knicks,Portland Trail Blazers,-4.0
+"Wed, Nov 21, 2018",Charlotte Hornets,Indiana Pacers,18.0
+"Wed, Nov 21, 2018",Philadelphia 76ers,New Orleans Pelicans,1.0
+"Wed, Nov 21, 2018",Atlanta Hawks,Toronto Raptors,-16.0
+"Wed, Nov 21, 2018",Boston Celtics,New York Knicks,-8.0
+"Wed, Nov 21, 2018",Chicago Bulls,Phoenix Suns,8.0
+"Wed, Nov 21, 2018",Cleveland Cavaliers,Los Angeles Lakers,-4.0
+"Wed, Nov 21, 2018",Houston Rockets,Detroit Pistons,2.0
+"Wed, Nov 21, 2018",Milwaukee Bucks,Portland Trail Blazers,43.0
+"Wed, Nov 21, 2018",Minnesota Timberwolves,Denver Nuggets,-2.0
+"Wed, Nov 21, 2018",Dallas Mavericks,Brooklyn Nets,6.0
+"Wed, Nov 21, 2018",San Antonio Spurs,Memphis Grizzlies,-1.0
+"Wed, Nov 21, 2018",Utah Jazz,Sacramento Kings,-9.0
+"Wed, Nov 21, 2018",Golden State Warriors,Oklahoma City Thunder,-28.0
+"Fri, Nov 23, 2018",Brooklyn Nets,Minnesota Timberwolves,-10.0
+"Fri, Nov 23, 2018",Los Angeles Clippers,Memphis Grizzlies,5.0
+"Fri, Nov 23, 2018",Detroit Pistons,Houston Rockets,5.0
+"Fri, Nov 23, 2018",Atlanta Hawks,Boston Celtics,-18.0
+"Fri, Nov 23, 2018",New York Knicks,New Orleans Pelicans,5.0
+"Fri, Nov 23, 2018",Philadelphia 76ers,Cleveland Cavaliers,-9.0
+"Fri, Nov 23, 2018",Toronto Raptors,Washington Wizards,18.0
+"Fri, Nov 23, 2018",Chicago Bulls,Miami Heat,-7.0
+"Fri, Nov 23, 2018",Indiana Pacers,San Antonio Spurs,-11.0
+"Fri, Nov 23, 2018",Oklahoma City Thunder,Charlotte Hornets,5.0
+"Fri, Nov 23, 2018",Milwaukee Bucks,Phoenix Suns,-2.0
+"Fri, Nov 23, 2018",Denver Nuggets,Orlando Magic,25.0
+"Fri, Nov 23, 2018",Golden State Warriors,Portland Trail Blazers,28.0
+"Fri, Nov 23, 2018",Los Angeles Lakers,Utah Jazz,7.0
+"Sat, Nov 24, 2018",Cleveland Cavaliers,Houston Rockets,9.0
+"Sat, Nov 24, 2018",Minnesota Timberwolves,Chicago Bulls,15.0
+"Sat, Nov 24, 2018",Oklahoma City Thunder,Denver Nuggets,-7.0
+"Sat, Nov 24, 2018",Washington Wizards,New Orleans Pelicans,10.0
+"Sat, Nov 24, 2018",Dallas Mavericks,Boston Celtics,9.0
+"Sat, Nov 24, 2018",Golden State Warriors,Sacramento Kings,1.0
+"Sat, Nov 24, 2018",Milwaukee Bucks,San Antonio Spurs,6.0
+"Sun, Nov 25, 2018",Los Angeles Lakers,Orlando Magic,-4.0
+"Sun, Nov 25, 2018",Detroit Pistons,Phoenix Suns,11.0
+"Sun, Nov 25, 2018",Atlanta Hawks,Charlotte Hornets,1.0
+"Sun, Nov 25, 2018",Brooklyn Nets,Philadelphia 76ers,-2.0
+"Sun, Nov 25, 2018",Memphis Grizzlies,New York Knicks,-5.0
+"Sun, Nov 25, 2018",Toronto Raptors,Miami Heat,10.0
+"Sun, Nov 25, 2018",Sacramento Kings,Utah Jazz,-21.0
+"Sun, Nov 25, 2018",Portland Trail Blazers,Los Angeles Clippers,-4.0
+"Mon, Nov 26, 2018",Charlotte Hornets,Milwaukee Bucks,3.0
+"Mon, Nov 26, 2018",Cleveland Cavaliers,Minnesota Timberwolves,-7.0
+"Mon, Nov 26, 2018",Washington Wizards,Houston Rockets,4.0
+"Mon, Nov 26, 2018",Chicago Bulls,San Antonio Spurs,-1.0
+"Mon, Nov 26, 2018",New Orleans Pelicans,Boston Celtics,-17.0
+"Mon, Nov 26, 2018",Utah Jazz,Indiana Pacers,-33.0
+"Mon, Nov 26, 2018",Golden State Warriors,Orlando Magic,6.0
+"Tue, Nov 27, 2018",Detroit Pistons,New York Knicks,7.0
+"Tue, Nov 27, 2018",Miami Heat,Atlanta Hawks,-2.0
+"Tue, Nov 27, 2018",Memphis Grizzlies,Toronto Raptors,-8.0
+"Tue, Nov 27, 2018",Denver Nuggets,Los Angeles Lakers,32.0
+"Tue, Nov 27, 2018",Phoenix Suns,Indiana Pacers,-5.0
+"Wed, Nov 28, 2018",Charlotte Hornets,Atlanta Hawks,14.0
+"Wed, Nov 28, 2018",Philadelphia 76ers,New York Knicks,26.0
+"Wed, Nov 28, 2018",Brooklyn Nets,Utah Jazz,-10.0
+"Wed, Nov 28, 2018",Houston Rockets,Dallas Mavericks,-20.0
+"Wed, Nov 28, 2018",Milwaukee Bucks,Chicago Bulls,3.0
+"Wed, Nov 28, 2018",Minnesota Timberwolves,San Antonio Spurs,39.0
+"Wed, Nov 28, 2018",New Orleans Pelicans,Washington Wizards,21.0
+"Wed, Nov 28, 2018",Oklahoma City Thunder,Cleveland Cavaliers,17.0
+"Wed, Nov 28, 2018",Portland Trail Blazers,Orlando Magic,3.0
+"Wed, Nov 28, 2018",Los Angeles Clippers,Phoenix Suns,16.0
+"Thu, Nov 29, 2018",Toronto Raptors,Golden State Warriors,3.0
+"Thu, Nov 29, 2018",Los Angeles Lakers,Indiana Pacers,8.0
+"Thu, Nov 29, 2018",Sacramento Kings,Los Angeles Clippers,-12.0
+"Fri, Nov 30, 2018",Boston Celtics,Cleveland Cavaliers,33.0
+"Fri, Nov 30, 2018",Charlotte Hornets,Utah Jazz,-8.0
+"Fri, Nov 30, 2018",Detroit Pistons,Chicago Bulls,19.0
+"Fri, Nov 30, 2018",Philadelphia 76ers,Washington Wizards,25.0
+"Fri, Nov 30, 2018",Brooklyn Nets,Memphis Grizzlies,-6.0
+"Fri, Nov 30, 2018",Miami Heat,New Orleans Pelicans,5.0
+"Fri, Nov 30, 2018",Oklahoma City Thunder,Atlanta Hawks,15.0
+"Fri, Nov 30, 2018",San Antonio Spurs,Houston Rockets,-31.0
+"Fri, Nov 30, 2018",Phoenix Suns,Orlando Magic,-14.0
+"Fri, Nov 30, 2018",Los Angeles Lakers,Dallas Mavericks,11.0
+"Fri, Nov 30, 2018",Portland Trail Blazers,Denver Nuggets,-1.0
+"Sat, Dec 1, 2018",New York Knicks,Milwaukee Bucks,2.0
+"Sat, Dec 1, 2018",Detroit Pistons,Golden State Warriors,9.0
+"Sat, Dec 1, 2018",Washington Wizards,Brooklyn Nets,14.0
+"Sat, Dec 1, 2018",Cleveland Cavaliers,Toronto Raptors,-11.0
+"Sat, Dec 1, 2018",Houston Rockets,Chicago Bulls,16.0
+"Sat, Dec 1, 2018",Minnesota Timberwolves,Boston Celtics,-9.0
+"Sat, Dec 1, 2018",Sacramento Kings,Indiana Pacers,1.0
+"Sun, Dec 2, 2018",Los Angeles Lakers,Phoenix Suns,24.0
+"Sun, Dec 2, 2018",Charlotte Hornets,New Orleans Pelicans,-10.0
+"Sun, Dec 2, 2018",Miami Heat,Utah Jazz,2.0
+"Sun, Dec 2, 2018",Philadelphia 76ers,Memphis Grizzlies,8.0
+"Sun, Dec 2, 2018",Dallas Mavericks,Los Angeles Clippers,4.0
+"Sun, Dec 2, 2018",San Antonio Spurs,Portland Trail Blazers,13.0
+"Mon, Dec 3, 2018",Detroit Pistons,Oklahoma City Thunder,-27.0
+"Mon, Dec 3, 2018",Atlanta Hawks,Golden State Warriors,-17.0
+"Mon, Dec 3, 2018",Brooklyn Nets,Cleveland Cavaliers,-2.0
+"Mon, Dec 3, 2018",New York Knicks,Washington Wizards,-3.0
+"Mon, Dec 3, 2018",Toronto Raptors,Denver Nuggets,-3.0
+"Mon, Dec 3, 2018",Minnesota Timberwolves,Houston Rockets,12.0
+"Mon, Dec 3, 2018",New Orleans Pelicans,Los Angeles Clippers,-3.0
+"Tue, Dec 4, 2018",Indiana Pacers,Chicago Bulls,6.0
+"Tue, Dec 4, 2018",Miami Heat,Orlando Magic,-15.0
+"Tue, Dec 4, 2018",Dallas Mavericks,Portland Trail Blazers,9.0
+"Tue, Dec 4, 2018",Phoenix Suns,Sacramento Kings,-17.0
+"Tue, Dec 4, 2018",Utah Jazz,San Antonio Spurs,34.0
+"Wed, Dec 5, 2018",Cleveland Cavaliers,Golden State Warriors,-24.0
+"Wed, Dec 5, 2018",Orlando Magic,Denver Nuggets,-6.0
+"Wed, Dec 5, 2018",Atlanta Hawks,Washington Wizards,-14.0
+"Wed, Dec 5, 2018",Brooklyn Nets,Oklahoma City Thunder,-2.0
+"Wed, Dec 5, 2018",Memphis Grizzlies,Los Angeles Clippers,10.0
+"Wed, Dec 5, 2018",Milwaukee Bucks,Detroit Pistons,23.0
+"Wed, Dec 5, 2018",Minnesota Timberwolves,Charlotte Hornets,17.0
+"Wed, Dec 5, 2018",New Orleans Pelicans,Dallas Mavericks,26.0
+"Wed, Dec 5, 2018",Toronto Raptors,Philadelphia 76ers,11.0
+"Wed, Dec 5, 2018",Los Angeles Lakers,San Antonio Spurs,8.0
+"Thu, Dec 6, 2018",Boston Celtics,New York Knicks,28.0
+"Thu, Dec 6, 2018",Portland Trail Blazers,Phoenix Suns,22.0
+"Thu, Dec 6, 2018",Utah Jazz,Houston Rockets,27.0
+"Fri, Dec 7, 2018",Charlotte Hornets,Denver Nuggets,6.0
+"Fri, Dec 7, 2018",Detroit Pistons,Philadelphia 76ers,-6.0
+"Fri, Dec 7, 2018",Orlando Magic,Indiana Pacers,-22.0
+"Fri, Dec 7, 2018",Brooklyn Nets,Toronto Raptors,1.0
+"Fri, Dec 7, 2018",Cleveland Cavaliers,Sacramento Kings,-19.0
+"Fri, Dec 7, 2018",Chicago Bulls,Oklahoma City Thunder,2.0
+"Fri, Dec 7, 2018",New Orleans Pelicans,Memphis Grizzlies,-4.0
+"Fri, Dec 7, 2018",San Antonio Spurs,Los Angeles Lakers,13.0
+"Fri, Dec 7, 2018",Phoenix Suns,Miami Heat,-17.0
+"Fri, Dec 7, 2018",Milwaukee Bucks,Golden State Warriors,-10.0
+"Sat, Dec 8, 2018",Dallas Mavericks,Houston Rockets,3.0
+"Sat, Dec 8, 2018",Indiana Pacers,Sacramento Kings,10.0
+"Sat, Dec 8, 2018",Atlanta Hawks,Denver Nuggets,8.0
+"Sat, Dec 8, 2018",Cleveland Cavaliers,Washington Wizards,15.0
+"Sat, Dec 8, 2018",New York Knicks,Brooklyn Nets,-8.0
+"Sat, Dec 8, 2018",Chicago Bulls,Boston Celtics,-56.0
+"Sat, Dec 8, 2018",Memphis Grizzlies,Los Angeles Lakers,-23.0
+"Sat, Dec 8, 2018",Portland Trail Blazers,Minnesota Timberwolves,8.0
+"Sat, Dec 8, 2018",Los Angeles Clippers,Miami Heat,-23.0
+"Sun, Dec 9, 2018",Detroit Pistons,New Orleans Pelicans,-8.0
+"Sun, Dec 9, 2018",Toronto Raptors,Milwaukee Bucks,-5.0
+"Sun, Dec 9, 2018",San Antonio Spurs,Utah Jazz,13.0
+"Sun, Dec 9, 2018",New York Knicks,Charlotte Hornets,-12.0
+"Mon, Dec 10, 2018",Indiana Pacers,Washington Wizards,8.0
+"Mon, Dec 10, 2018",Philadelphia 76ers,Detroit Pistons,14.0
+"Mon, Dec 10, 2018",Boston Celtics,New Orleans Pelicans,13.0
+"Mon, Dec 10, 2018",Chicago Bulls,Sacramento Kings,-19.0
+"Mon, Dec 10, 2018",Milwaukee Bucks,Cleveland Cavaliers,16.0
+"Mon, Dec 10, 2018",Oklahoma City Thunder,Utah Jazz,9.0
+"Mon, Dec 10, 2018",Dallas Mavericks,Orlando Magic,25.0
+"Mon, Dec 10, 2018",Denver Nuggets,Memphis Grizzlies,6.0
+"Mon, Dec 10, 2018",Phoenix Suns,Los Angeles Clippers,-4.0
+"Mon, Dec 10, 2018",Golden State Warriors,Minnesota Timberwolves,8.0
+"Mon, Dec 10, 2018",Los Angeles Lakers,Miami Heat,3.0
+"Tue, Dec 11, 2018",Houston Rockets,Portland Trail Blazers,7.0
+"Tue, Dec 11, 2018",San Antonio Spurs,Phoenix Suns,25.0
+"Tue, Dec 11, 2018",Los Angeles Clippers,Toronto Raptors,-24.0
+"Wed, Dec 12, 2018",Charlotte Hornets,Detroit Pistons,1.0
+"Wed, Dec 12, 2018",Cleveland Cavaliers,New York Knicks,7.0
+"Wed, Dec 12, 2018",Indiana Pacers,Milwaukee Bucks,16.0
+"Wed, Dec 12, 2018",Philadelphia 76ers,Brooklyn Nets,-3.0
+"Wed, Dec 12, 2018",Washington Wizards,Boston Celtics,-5.0
+"Wed, Dec 12, 2018",Memphis Grizzlies,Portland Trail Blazers,9.0
+"Wed, Dec 12, 2018",New Orleans Pelicans,Oklahoma City Thunder,4.0
+"Wed, Dec 12, 2018",Dallas Mavericks,Atlanta Hawks,7.0
+"Wed, Dec 12, 2018",Utah Jazz,Miami Heat,27.0
+"Wed, Dec 12, 2018",Sacramento Kings,Minnesota Timberwolves,11.0
+"Wed, Dec 12, 2018",Golden State Warriors,Toronto Raptors,-20.0
+"Thu, Dec 13, 2018",Houston Rockets,Los Angeles Lakers,15.0
+"Thu, Dec 13, 2018",San Antonio Spurs,Los Angeles Clippers,38.0
+"Thu, Dec 13, 2018",Orlando Magic,Chicago Bulls,6.0
+"Thu, Dec 13, 2018",Phoenix Suns,Dallas Mavericks,10.0
+"Fri, Dec 14, 2018",Boston Celtics,Atlanta Hawks,21.0
+"Fri, Dec 14, 2018",Charlotte Hornets,New York Knicks,-2.0
+"Fri, Dec 14, 2018",Brooklyn Nets,Washington Wizards,7.0
+"Fri, Dec 14, 2018",Cleveland Cavaliers,Milwaukee Bucks,-12.0
+"Fri, Dec 14, 2018",Philadelphia 76ers,Indiana Pacers,-12.0
+"Fri, Dec 14, 2018",Memphis Grizzlies,Miami Heat,-3.0
+"Fri, Dec 14, 2018",Denver Nuggets,Oklahoma City Thunder,11.0
+"Fri, Dec 14, 2018",Portland Trail Blazers,Toronto Raptors,6.0
+"Fri, Dec 14, 2018",Sacramento Kings,Golden State Warriors,-5.0
+"Sat, Dec 15, 2018",Orlando Magic,Utah Jazz,7.0
+"Sat, Dec 15, 2018",Charlotte Hornets,Los Angeles Lakers,-28.0
+"Sat, Dec 15, 2018",Detroit Pistons,Boston Celtics,9.0
+"Sat, Dec 15, 2018",Memphis Grizzlies,Houston Rockets,-8.0
+"Sat, Dec 15, 2018",San Antonio Spurs,Chicago Bulls,-5.0
+"Sat, Dec 15, 2018",Oklahoma City Thunder,Los Angeles Clippers,6.0
+"Sat, Dec 15, 2018",Phoenix Suns,Minnesota Timberwolves,8.0
+"Sun, Dec 16, 2018",Brooklyn Nets,Atlanta Hawks,17.0
+"Sun, Dec 16, 2018",Cleveland Cavaliers,Philadelphia 76ers,-23.0
+"Sun, Dec 16, 2018",Indiana Pacers,New York Knicks,11.0
+"Sun, Dec 16, 2018",Washington Wizards,Los Angeles Lakers,18.0
+"Sun, Dec 16, 2018",Dallas Mavericks,Sacramento Kings,-7.0
+"Sun, Dec 16, 2018",New Orleans Pelicans,Miami Heat,-6.0
+"Sun, Dec 16, 2018",Denver Nuggets,Toronto Raptors,9.0
+"Mon, Dec 17, 2018",Detroit Pistons,Milwaukee Bucks,-3.0
+"Mon, Dec 17, 2018",New York Knicks,Phoenix Suns,-18.0
+"Mon, Dec 17, 2018",Houston Rockets,Utah Jazz,5.0
+"Mon, Dec 17, 2018",Minnesota Timberwolves,Sacramento Kings,27.0
+"Mon, Dec 17, 2018",Oklahoma City Thunder,Chicago Bulls,25.0
+"Mon, Dec 17, 2018",San Antonio Spurs,Philadelphia 76ers,27.0
+"Mon, Dec 17, 2018",Golden State Warriors,Memphis Grizzlies,17.0
+"Mon, Dec 17, 2018",Los Angeles Clippers,Portland Trail Blazers,-4.0
+"Tue, Dec 18, 2018",Indiana Pacers,Cleveland Cavaliers,-1.0
+"Tue, Dec 18, 2018",Atlanta Hawks,Washington Wizards,8.0
+"Tue, Dec 18, 2018",Brooklyn Nets,Los Angeles Lakers,5.0
+"Tue, Dec 18, 2018",Denver Nuggets,Dallas Mavericks,8.0
+"Wed, Dec 19, 2018",Charlotte Hornets,Cleveland Cavaliers,11.0
+"Wed, Dec 19, 2018",Orlando Magic,San Antonio Spurs,-39.0
+"Wed, Dec 19, 2018",Philadelphia 76ers,New York Knicks,22.0
+"Wed, Dec 19, 2018",Boston Celtics,Phoenix Suns,-8.0
+"Wed, Dec 19, 2018",Toronto Raptors,Indiana Pacers,3.0
+"Wed, Dec 19, 2018",Chicago Bulls,Brooklyn Nets,-3.0
+"Wed, Dec 19, 2018",Houston Rockets,Washington Wizards,18.0
+"Wed, Dec 19, 2018",Milwaukee Bucks,New Orleans Pelicans,8.0
+"Wed, Dec 19, 2018",Minnesota Timberwolves,Detroit Pistons,-6.0
+"Wed, Dec 19, 2018",Utah Jazz,Golden State Warriors,5.0
+"Wed, Dec 19, 2018",Portland Trail Blazers,Memphis Grizzlies,7.0
+"Wed, Dec 19, 2018",Sacramento Kings,Oklahoma City Thunder,-19.0
+"Thu, Dec 20, 2018",Miami Heat,Houston Rockets,2.0
+"Thu, Dec 20, 2018",Los Angeles Clippers,Dallas Mavericks,4.0
+"Fri, Dec 21, 2018",Charlotte Hornets,Detroit Pistons,12.0
+"Fri, Dec 21, 2018",Toronto Raptors,Cleveland Cavaliers,16.0
+"Fri, Dec 21, 2018",Brooklyn Nets,Indiana Pacers,-8.0
+"Fri, Dec 21, 2018",New York Knicks,Atlanta Hawks,-7.0
+"Fri, Dec 21, 2018",Boston Celtics,Milwaukee Bucks,-13.0
+"Fri, Dec 21, 2018",Chicago Bulls,Orlando Magic,10.0
+"Fri, Dec 21, 2018",San Antonio Spurs,Minnesota Timberwolves,26.0
+"Fri, Dec 21, 2018",Portland Trail Blazers,Utah Jazz,-30.0
+"Fri, Dec 21, 2018",Sacramento Kings,Memphis Grizzlies,3.0
+"Fri, Dec 21, 2018",Los Angeles Lakers,New Orleans Pelicans,8.0
+"Sat, Dec 22, 2018",Los Angeles Clippers,Denver Nuggets,21.0
+"Sat, Dec 22, 2018",Washington Wizards,Phoenix Suns,3.0
+"Sat, Dec 22, 2018",Philadelphia 76ers,Toronto Raptors,25.0
+"Sat, Dec 22, 2018",Houston Rockets,San Antonio Spurs,7.0
+"Sat, Dec 22, 2018",Miami Heat,Milwaukee Bucks,7.0
+"Sat, Dec 22, 2018",Golden State Warriors,Dallas Mavericks,4.0
+"Sat, Dec 22, 2018",Utah Jazz,Oklahoma City Thunder,-1.0
+"Sun, Dec 23, 2018",Detroit Pistons,Atlanta Hawks,-3.0
+"Sun, Dec 23, 2018",Indiana Pacers,Washington Wizards,16.0
+"Sun, Dec 23, 2018",Boston Celtics,Charlotte Hornets,16.0
+"Sun, Dec 23, 2018",Brooklyn Nets,Phoenix Suns,8.0
+"Sun, Dec 23, 2018",Cleveland Cavaliers,Chicago Bulls,-20.0
+"Sun, Dec 23, 2018",Orlando Magic,Miami Heat,-24.0
+"Sun, Dec 23, 2018",Sacramento Kings,New Orleans Pelicans,5.0
+"Sun, Dec 23, 2018",Oklahoma City Thunder,Minnesota Timberwolves,-2.0
+"Sun, Dec 23, 2018",Golden State Warriors,Los Angeles Clippers,2.0
+"Sun, Dec 23, 2018",Portland Trail Blazers,Dallas Mavericks,3.0
+"Sun, Dec 23, 2018",Los Angeles Lakers,Memphis Grizzlies,-8.0
+"Tue, Dec 25, 2018",New York Knicks,Milwaukee Bucks,-14.0
+"Tue, Dec 25, 2018",Houston Rockets,Oklahoma City Thunder,4.0
+"Tue, Dec 25, 2018",Boston Celtics,Philadelphia 76ers,7.0
+"Tue, Dec 25, 2018",Golden State Warriors,Los Angeles Lakers,-26.0
+"Tue, Dec 25, 2018",Utah Jazz,Portland Trail Blazers,21.0
+"Wed, Dec 26, 2018",Detroit Pistons,Washington Wizards,11.0
+"Wed, Dec 26, 2018",Orlando Magic,Phoenix Suns,-2.0
+"Wed, Dec 26, 2018",Atlanta Hawks,Indiana Pacers,-8.0
+"Wed, Dec 26, 2018",Brooklyn Nets,Charlotte Hornets,2.0
+"Wed, Dec 26, 2018",Miami Heat,Toronto Raptors,-2.0
+"Wed, Dec 26, 2018",Chicago Bulls,Minnesota Timberwolves,-25.0
+"Wed, Dec 26, 2018",Memphis Grizzlies,Cleveland Cavaliers,8.0
+"Wed, Dec 26, 2018",Dallas Mavericks,New Orleans Pelicans,3.0
+"Wed, Dec 26, 2018",San Antonio Spurs,Denver Nuggets,8.0
+"Wed, Dec 26, 2018",Los Angeles Clippers,Sacramento Kings,9.0
+"Thu, Dec 27, 2018",Houston Rockets,Boston Celtics,14.0
+"Thu, Dec 27, 2018",Milwaukee Bucks,New York Knicks,16.0
+"Thu, Dec 27, 2018",Sacramento Kings,Los Angeles Lakers,1.0
+"Thu, Dec 27, 2018",Golden State Warriors,Portland Trail Blazers,-1.0
+"Thu, Dec 27, 2018",Utah Jazz,Philadelphia 76ers,-17.0
+"Fri, Dec 28, 2018",Charlotte Hornets,Brooklyn Nets,13.0
+"Fri, Dec 28, 2018",Indiana Pacers,Detroit Pistons,37.0
+"Fri, Dec 28, 2018",Orlando Magic,Toronto Raptors,29.0
+"Fri, Dec 28, 2018",Washington Wizards,Chicago Bulls,-9.0
+"Fri, Dec 28, 2018",Miami Heat,Cleveland Cavaliers,24.0
+"Fri, Dec 28, 2018",Minnesota Timberwolves,Atlanta Hawks,-3.0
+"Fri, Dec 28, 2018",New Orleans Pelicans,Dallas Mavericks,2.0
+"Fri, Dec 28, 2018",Denver Nuggets,San Antonio Spurs,3.0
+"Fri, Dec 28, 2018",Phoenix Suns,Oklahoma City Thunder,-16.0
+"Fri, Dec 28, 2018",Los Angeles Lakers,Los Angeles Clippers,-11.0
+"Sat, Dec 29, 2018",Milwaukee Bucks,Brooklyn Nets,14.0
+"Sat, Dec 29, 2018",New Orleans Pelicans,Houston Rockets,-4.0
+"Sat, Dec 29, 2018",Washington Wizards,Charlotte Hornets,4.0
+"Sat, Dec 29, 2018",Atlanta Hawks,Cleveland Cavaliers,3.0
+"Sat, Dec 29, 2018",Memphis Grizzlies,Boston Celtics,-9.0
+"Sat, Dec 29, 2018",Utah Jazz,New York Knicks,32.0
+"Sat, Dec 29, 2018",Phoenix Suns,Denver Nuggets,-4.0
+"Sat, Dec 29, 2018",Portland Trail Blazers,Golden State Warriors,-10.0
+"Sat, Dec 29, 2018",Los Angeles Clippers,San Antonio Spurs,-11.0
+"Sun, Dec 30, 2018",Orlando Magic,Detroit Pistons,2.0
+"Sun, Dec 30, 2018",Miami Heat,Minnesota Timberwolves,-9.0
+"Sun, Dec 30, 2018",Toronto Raptors,Chicago Bulls,6.0
+"Sun, Dec 30, 2018",Dallas Mavericks,Oklahoma City Thunder,2.0
+"Sun, Dec 30, 2018",Portland Trail Blazers,Philadelphia 76ers,34.0
+"Sun, Dec 30, 2018",Los Angeles Lakers,Sacramento Kings,7.0
+"Mon, Dec 31, 2018",Indiana Pacers,Atlanta Hawks,8.0
+"Mon, Dec 31, 2018",Charlotte Hornets,Orlando Magic,25.0
+"Mon, Dec 31, 2018",Houston Rockets,Memphis Grizzlies,12.0
+"Mon, Dec 31, 2018",San Antonio Spurs,Boston Celtics,9.0
+"Mon, Dec 31, 2018",New Orleans Pelicans,Minnesota Timberwolves,9.0
+"Mon, Dec 31, 2018",Oklahoma City Thunder,Dallas Mavericks,20.0
+"Mon, Dec 31, 2018",Phoenix Suns,Golden State Warriors,-23.0
+"Tue, Jan 1, 2019",Toronto Raptors,Utah Jazz,6.0
+"Tue, Jan 1, 2019",Milwaukee Bucks,Detroit Pistons,23.0
+"Tue, Jan 1, 2019",Denver Nuggets,New York Knicks,7.0
+"Tue, Jan 1, 2019",Sacramento Kings,Portland Trail Blazers,-5.0
+"Tue, Jan 1, 2019",Los Angeles Clippers,Philadelphia 76ers,-6.0
+"Wed, Jan 2, 2019",Charlotte Hornets,Dallas Mavericks,-38.0
+"Wed, Jan 2, 2019",Cleveland Cavaliers,Miami Heat,-25.0
+"Wed, Jan 2, 2019",Washington Wizards,Atlanta Hawks,16.0
+"Wed, Jan 2, 2019",Brooklyn Nets,New Orleans Pelicans,5.0
+"Wed, Jan 2, 2019",Boston Celtics,Minnesota Timberwolves,13.0
+"Wed, Jan 2, 2019",Chicago Bulls,Orlando Magic,-28.0
+"Wed, Jan 2, 2019",Memphis Grizzlies,Detroit Pistons,-7.0
+"Wed, Jan 2, 2019",Phoenix Suns,Philadelphia 76ers,-5.0
+"Wed, Jan 2, 2019",Los Angeles Lakers,Oklahoma City Thunder,-7.0
+"Thu, Jan 3, 2019",San Antonio Spurs,Toronto Raptors,18.0
+"Thu, Jan 3, 2019",Sacramento Kings,Denver Nuggets,-4.0
+"Thu, Jan 3, 2019",Golden State Warriors,Houston Rockets,-1.0
+"Fri, Jan 4, 2019",Cleveland Cavaliers,Utah Jazz,-26.0
+"Fri, Jan 4, 2019",Boston Celtics,Dallas Mavericks,21.0
+"Fri, Jan 4, 2019",Chicago Bulls,Indiana Pacers,-3.0
+"Fri, Jan 4, 2019",Memphis Grizzlies,Brooklyn Nets,-9.0
+"Fri, Jan 4, 2019",Miami Heat,Washington Wizards,6.0
+"Fri, Jan 4, 2019",Minnesota Timberwolves,Orlando Magic,17.0
+"Fri, Jan 4, 2019",Milwaukee Bucks,Atlanta Hawks,32.0
+"Fri, Jan 4, 2019",Phoenix Suns,Los Angeles Clippers,-10.0
+"Fri, Jan 4, 2019",Los Angeles Lakers,New York Knicks,-7.0
+"Fri, Jan 4, 2019",Portland Trail Blazers,Oklahoma City Thunder,-2.0
+"Sat, Jan 5, 2019",Denver Nuggets,Charlotte Hornets,13.0
+"Sat, Jan 5, 2019",Detroit Pistons,Utah Jazz,-5.0
+"Sat, Jan 5, 2019",Philadelphia 76ers,Dallas Mavericks,6.0
+"Sat, Jan 5, 2019",Cleveland Cavaliers,New Orleans Pelicans,-35.0
+"Sat, Jan 5, 2019",Milwaukee Bucks,Toronto Raptors,-7.0
+"Sat, Jan 5, 2019",San Antonio Spurs,Memphis Grizzlies,20.0
+"Sat, Jan 5, 2019",Portland Trail Blazers,Houston Rockets,9.0
+"Sat, Jan 5, 2019",Sacramento Kings,Golden State Warriors,-4.0
+"Sun, Jan 6, 2019",Chicago Bulls,Brooklyn Nets,-17.0
+"Sun, Jan 6, 2019",Los Angeles Clippers,Orlando Magic,10.0
+"Sun, Jan 6, 2019",Minnesota Timberwolves,Los Angeles Lakers,22.0
+"Sun, Jan 6, 2019",Atlanta Hawks,Miami Heat,24.0
+"Sun, Jan 6, 2019",Oklahoma City Thunder,Washington Wizards,-18.0
+"Sun, Jan 6, 2019",Toronto Raptors,Indiana Pacers,16.0
+"Sun, Jan 6, 2019",Phoenix Suns,Charlotte Hornets,-6.0
+"Mon, Jan 7, 2019",Detroit Pistons,San Antonio Spurs,-12.0
+"Mon, Jan 7, 2019",Boston Celtics,Brooklyn Nets,21.0
+"Mon, Jan 7, 2019",Houston Rockets,Denver Nuggets,12.0
+"Mon, Jan 7, 2019",Milwaukee Bucks,Utah Jazz,12.0
+"Mon, Jan 7, 2019",New Orleans Pelicans,Memphis Grizzlies,19.0
+"Mon, Jan 7, 2019",Dallas Mavericks,Los Angeles Lakers,-10.0
+"Mon, Jan 7, 2019",Portland Trail Blazers,New York Knicks,10.0
+"Mon, Jan 7, 2019",Sacramento Kings,Orlando Magic,16.0
+"Tue, Jan 8, 2019",Cleveland Cavaliers,Indiana Pacers,-8.0
+"Tue, Jan 8, 2019",Philadelphia 76ers,Washington Wizards,17.0
+"Tue, Jan 8, 2019",Miami Heat,Denver Nuggets,-4.0
+"Tue, Jan 8, 2019",Toronto Raptors,Atlanta Hawks,3.0
+"Tue, Jan 8, 2019",Oklahoma City Thunder,Minnesota Timberwolves,-2.0
+"Tue, Jan 8, 2019",Phoenix Suns,Sacramento Kings,4.0
+"Tue, Jan 8, 2019",Golden State Warriors,New York Knicks,27.0
+"Tue, Jan 8, 2019",Los Angeles Clippers,Charlotte Hornets,19.0
+"Wed, Jan 9, 2019",Boston Celtics,Indiana Pacers,27.0
+"Wed, Jan 9, 2019",Washington Wizards,Philadelphia 76ers,17.0
+"Wed, Jan 9, 2019",Brooklyn Nets,Atlanta Hawks,16.0
+"Wed, Jan 9, 2019",Houston Rockets,Milwaukee Bucks,-7.0
+"Wed, Jan 9, 2019",Memphis Grizzlies,San Antonio Spurs,10.0
+"Wed, Jan 9, 2019",New Orleans Pelicans,Cleveland Cavaliers,16.0
+"Wed, Jan 9, 2019",Dallas Mavericks,Phoenix Suns,10.0
+"Wed, Jan 9, 2019",Utah Jazz,Orlando Magic,13.0
+"Wed, Jan 9, 2019",Portland Trail Blazers,Chicago Bulls,12.0
+"Wed, Jan 9, 2019",Los Angeles Lakers,Detroit Pistons,13.0
+"Thu, Jan 10, 2019",Miami Heat,Boston Celtics,16.0
+"Thu, Jan 10, 2019",Denver Nuggets,Los Angeles Clippers,21.0
+"Thu, Jan 10, 2019",San Antonio Spurs,Oklahoma City Thunder,7.0
+"Thu, Jan 10, 2019",Sacramento Kings,Detroit Pistons,10.0
+"Fri, Jan 11, 2019",Philadelphia 76ers,Atlanta Hawks,-2.0
+"Fri, Jan 11, 2019",Washington Wizards,Milwaukee Bucks,7.0
+"Fri, Jan 11, 2019",New York Knicks,Indiana Pacers,-15.0
+"Fri, Jan 11, 2019",Toronto Raptors,Brooklyn Nets,17.0
+"Fri, Jan 11, 2019",Houston Rockets,Cleveland Cavaliers,28.0
+"Fri, Jan 11, 2019",Minnesota Timberwolves,Dallas Mavericks,-4.0
+"Fri, Jan 11, 2019",Portland Trail Blazers,Charlotte Hornets,31.0
+"Fri, Jan 11, 2019",Utah Jazz,Los Angeles Lakers,18.0
+"Fri, Jan 11, 2019",Golden State Warriors,Chicago Bulls,37.0
+"Sat, Jan 12, 2019",Los Angeles Clippers,Detroit Pistons,-5.0
+"Sat, Jan 12, 2019",Miami Heat,Memphis Grizzlies,4.0
+"Sat, Jan 12, 2019",Orlando Magic,Boston Celtics,2.0
+"Sat, Jan 12, 2019",Minnesota Timberwolves,New Orleans Pelicans,4.0
+"Sat, Jan 12, 2019",Oklahoma City Thunder,San Antonio Spurs,10.0
+"Sat, Jan 12, 2019",Phoenix Suns,Denver Nuggets,9.0
+"Sat, Jan 12, 2019",Sacramento Kings,Charlotte Hornets,7.0
+"Sat, Jan 12, 2019",Utah Jazz,Chicago Bulls,8.0
+"Sun, Jan 13, 2019",New York Knicks,Philadelphia 76ers,-3.0
+"Sun, Jan 13, 2019",Washington Wizards,Toronto Raptors,-2.0
+"Sun, Jan 13, 2019",Atlanta Hawks,Milwaukee Bucks,-19.0
+"Sun, Jan 13, 2019",Orlando Magic,Houston Rockets,7.0
+"Sun, Jan 13, 2019",Dallas Mavericks,Golden State Warriors,-5.0
+"Sun, Jan 13, 2019",Denver Nuggets,Portland Trail Blazers,3.0
+"Sun, Jan 13, 2019",Los Angeles Lakers,Cleveland Cavaliers,-6.0
+"Mon, Jan 14, 2019",Brooklyn Nets,Boston Celtics,7.0
+"Mon, Jan 14, 2019",Houston Rockets,Memphis Grizzlies,18.0
+"Mon, Jan 14, 2019",San Antonio Spurs,Charlotte Hornets,-15.0
+"Mon, Jan 14, 2019",Utah Jazz,Detroit Pistons,6.0
+"Mon, Jan 14, 2019",Sacramento Kings,Portland Trail Blazers,8.0
+"Mon, Jan 14, 2019",Los Angeles Clippers,New Orleans Pelicans,-4.0
+"Tue, Jan 15, 2019",Indiana Pacers,Phoenix Suns,34.0
+"Tue, Jan 15, 2019",Philadelphia 76ers,Minnesota Timberwolves,42.0
+"Tue, Jan 15, 2019",Atlanta Hawks,Oklahoma City Thunder,16.0
+"Tue, Jan 15, 2019",Milwaukee Bucks,Miami Heat,38.0
+"Tue, Jan 15, 2019",Denver Nuggets,Golden State Warriors,-31.0
+"Tue, Jan 15, 2019",Los Angeles Lakers,Chicago Bulls,7.0
+"Wed, Jan 16, 2019",Detroit Pistons,Orlando Magic,5.0
+"Wed, Jan 16, 2019",Boston Celtics,Toronto Raptors,9.0
+"Wed, Jan 16, 2019",Houston Rockets,Brooklyn Nets,-3.0
+"Wed, Jan 16, 2019",Memphis Grizzlies,Milwaukee Bucks,-10.0
+"Wed, Jan 16, 2019",Dallas Mavericks,San Antonio Spurs,-4.0
+"Wed, Jan 16, 2019",Portland Trail Blazers,Cleveland Cavaliers,17.0
+"Wed, Jan 16, 2019",Golden State Warriors,New Orleans Pelicans,7.0
+"Wed, Jan 16, 2019",Los Angeles Clippers,Utah Jazz,-20.0
+"Thu, Jan 17, 2019",Washington Wizards,New York Knicks,1.0
+"Thu, Jan 17, 2019",Charlotte Hornets,Sacramento Kings,19.0
+"Thu, Jan 17, 2019",Indiana Pacers,Philadelphia 76ers,-24.0
+"Thu, Jan 17, 2019",Toronto Raptors,Phoenix Suns,2.0
+"Thu, Jan 17, 2019",Denver Nuggets,Chicago Bulls,30.0
+"Thu, Jan 17, 2019",Oklahoma City Thunder,Los Angeles Lakers,-10.0
+"Fri, Jan 18, 2019",Boston Celtics,Memphis Grizzlies,6.0
+"Fri, Jan 18, 2019",Detroit Pistons,Miami Heat,5.0
+"Fri, Jan 18, 2019",Orlando Magic,Brooklyn Nets,-2.0
+"Fri, Jan 18, 2019",Minnesota Timberwolves,San Antonio Spurs,-3.0
+"Fri, Jan 18, 2019",Utah Jazz,Cleveland Cavaliers,16.0
+"Fri, Jan 18, 2019",Los Angeles Clippers,Golden State Warriors,-18.0
+"Fri, Jan 18, 2019",Portland Trail Blazers,New Orleans Pelicans,16.0
+"Sat, Jan 19, 2019",Philadelphia 76ers,Oklahoma City Thunder,-2.0
+"Sat, Jan 19, 2019",Charlotte Hornets,Phoenix Suns,20.0
+"Sat, Jan 19, 2019",Detroit Pistons,Sacramento Kings,-2.0
+"Sat, Jan 19, 2019",Indiana Pacers,Dallas Mavericks,12.0
+"Sat, Jan 19, 2019",Orlando Magic,Milwaukee Bucks,-10.0
+"Sat, Jan 19, 2019",Atlanta Hawks,Boston Celtics,-8.0
+"Sat, Jan 19, 2019",Toronto Raptors,Memphis Grizzlies,29.0
+"Sat, Jan 19, 2019",Chicago Bulls,Miami Heat,-14.0
+"Sat, Jan 19, 2019",Houston Rockets,Los Angeles Lakers,4.0
+"Sat, Jan 19, 2019",Denver Nuggets,Cleveland Cavaliers,22.0
+"Sun, Jan 20, 2019",Indiana Pacers,Charlotte Hornets,25.0
+"Sun, Jan 20, 2019",Minnesota Timberwolves,Phoenix Suns,2.0
+"Sun, Jan 20, 2019",San Antonio Spurs,Los Angeles Clippers,-8.0
+"Mon, Jan 21, 2019",New York Knicks,Oklahoma City Thunder,-18.0
+"Mon, Jan 21, 2019",Cleveland Cavaliers,Chicago Bulls,-16.0
+"Mon, Jan 21, 2019",Milwaukee Bucks,Dallas Mavericks,10.0
+"Mon, Jan 21, 2019",Washington Wizards,Detroit Pistons,14.0
+"Mon, Jan 21, 2019",Atlanta Hawks,Orlando Magic,-19.0
+"Mon, Jan 21, 2019",Brooklyn Nets,Sacramento Kings,29.0
+"Mon, Jan 21, 2019",Memphis Grizzlies,New Orleans Pelicans,-20.0
+"Mon, Jan 21, 2019",Boston Celtics,Miami Heat,8.0
+"Mon, Jan 21, 2019",Philadelphia 76ers,Houston Rockets,28.0
+"Mon, Jan 21, 2019",Utah Jazz,Portland Trail Blazers,-5.0
+"Mon, Jan 21, 2019",Los Angeles Lakers,Golden State Warriors,-19.0
+"Tue, Jan 22, 2019",Toronto Raptors,Sacramento Kings,15.0
+"Tue, Jan 22, 2019",Oklahoma City Thunder,Portland Trail Blazers,9.0
+"Tue, Jan 22, 2019",Dallas Mavericks,Los Angeles Clippers,8.0
+"Tue, Jan 22, 2019",Phoenix Suns,Minnesota Timberwolves,-27.0
+"Wed, Jan 23, 2019",Indiana Pacers,Toronto Raptors,4.0
+"Wed, Jan 23, 2019",Boston Celtics,Cleveland Cavaliers,20.0
+"Wed, Jan 23, 2019",Brooklyn Nets,Orlando Magic,4.0
+"Wed, Jan 23, 2019",Miami Heat,Los Angeles Clippers,-12.0
+"Wed, Jan 23, 2019",New York Knicks,Houston Rockets,-4.0
+"Wed, Jan 23, 2019",Chicago Bulls,Atlanta Hawks,-20.0
+"Wed, Jan 23, 2019",Memphis Grizzlies,Charlotte Hornets,-11.0
+"Wed, Jan 23, 2019",New Orleans Pelicans,Detroit Pistons,-4.0
+"Wed, Jan 23, 2019",Philadelphia 76ers,San Antonio Spurs,2.0
+"Wed, Jan 23, 2019",Utah Jazz,Denver Nuggets,6.0
+"Thu, Jan 24, 2019",Oklahoma City Thunder,New Orleans Pelicans,6.0
+"Thu, Jan 24, 2019",Washington Wizards,Golden State Warriors,-8.0
+"Thu, Jan 24, 2019",Phoenix Suns,Portland Trail Blazers,-14.0
+"Thu, Jan 24, 2019",Los Angeles Lakers,Minnesota Timberwolves,-15.0
+"Fri, Jan 25, 2019",Orlando Magic,Washington Wizards,-4.0
+"Fri, Jan 25, 2019",Brooklyn Nets,New York Knicks,10.0
+"Fri, Jan 25, 2019",Cleveland Cavaliers,Miami Heat,-6.0
+"Fri, Jan 25, 2019",Chicago Bulls,Los Angeles Clippers,-5.0
+"Fri, Jan 25, 2019",Houston Rockets,Toronto Raptors,2.0
+"Fri, Jan 25, 2019",Memphis Grizzlies,Sacramento Kings,-3.0
+"Fri, Jan 25, 2019",Dallas Mavericks,Detroit Pistons,5.0
+"Fri, Jan 25, 2019",Milwaukee Bucks,Charlotte Hornets,9.0
+"Fri, Jan 25, 2019",Denver Nuggets,Phoenix Suns,37.0
+"Fri, Jan 25, 2019",Utah Jazz,Minnesota Timberwolves,4.0
+"Sat, Jan 26, 2019",New Orleans Pelicans,San Antonio Spurs,-12.0
+"Sat, Jan 26, 2019",Memphis Grizzlies,Indiana Pacers,3.0
+"Sat, Jan 26, 2019",Boston Celtics,Golden State Warriors,-4.0
+"Sat, Jan 26, 2019",Denver Nuggets,Philadelphia 76ers,16.0
+"Sat, Jan 26, 2019",Portland Trail Blazers,Atlanta Hawks,9.0
+"Sun, Jan 27, 2019",Chicago Bulls,Cleveland Cavaliers,-3.0
+"Sun, Jan 27, 2019",Los Angeles Clippers,Sacramento Kings,14.0
+"Sun, Jan 27, 2019",Oklahoma City Thunder,Milwaukee Bucks,6.0
+"Sun, Jan 27, 2019",Dallas Mavericks,Toronto Raptors,-3.0
+"Sun, Jan 27, 2019",Houston Rockets,Orlando Magic,5.0
+"Sun, Jan 27, 2019",Minnesota Timberwolves,Utah Jazz,-14.0
+"Sun, Jan 27, 2019",San Antonio Spurs,Washington Wizards,13.0
+"Sun, Jan 27, 2019",New York Knicks,Miami Heat,-9.0
+"Sun, Jan 27, 2019",Los Angeles Lakers,Phoenix Suns,14.0
+"Mon, Jan 28, 2019",Charlotte Hornets,New York Knicks,9.0
+"Mon, Jan 28, 2019",Indiana Pacers,Golden State Warriors,-32.0
+"Mon, Jan 28, 2019",Boston Celtics,Brooklyn Nets,8.0
+"Mon, Jan 28, 2019",Memphis Grizzlies,Denver Nuggets,-3.0
+"Mon, Jan 28, 2019",Los Angeles Clippers,Atlanta Hawks,-5.0
+"Tue, Jan 29, 2019",Cleveland Cavaliers,Washington Wizards,3.0
+"Tue, Jan 29, 2019",Detroit Pistons,Milwaukee Bucks,-10.0
+"Tue, Jan 29, 2019",Orlando Magic,Oklahoma City Thunder,-9.0
+"Tue, Jan 29, 2019",Brooklyn Nets,Chicago Bulls,5.0
+"Tue, Jan 29, 2019",Houston Rockets,New Orleans Pelicans,-5.0
+"Tue, Jan 29, 2019",San Antonio Spurs,Phoenix Suns,2.0
+"Tue, Jan 29, 2019",Los Angeles Lakers,Philadelphia 76ers,-16.0
+"Wed, Jan 30, 2019",Boston Celtics,Charlotte Hornets,32.0
+"Wed, Jan 30, 2019",Miami Heat,Chicago Bulls,-16.0
+"Wed, Jan 30, 2019",New York Knicks,Dallas Mavericks,-24.0
+"Wed, Jan 30, 2019",Minnesota Timberwolves,Memphis Grizzlies,2.0
+"Wed, Jan 30, 2019",New Orleans Pelicans,Denver Nuggets,-6.0
+"Wed, Jan 30, 2019",Washington Wizards,Indiana Pacers,18.0
+"Wed, Jan 30, 2019",Sacramento Kings,Atlanta Hawks,22.0
+"Wed, Jan 30, 2019",Portland Trail Blazers,Utah Jazz,27.0
+"Thu, Jan 31, 2019",Detroit Pistons,Dallas Mavericks,4.0
+"Thu, Jan 31, 2019",Orlando Magic,Indiana Pacers,7.0
+"Thu, Jan 31, 2019",Toronto Raptors,Milwaukee Bucks,-13.0
+"Thu, Jan 31, 2019",San Antonio Spurs,Brooklyn Nets,3.0
+"Thu, Jan 31, 2019",Golden State Warriors,Philadelphia 76ers,-9.0
+"Thu, Jan 31, 2019",Los Angeles Clippers,Los Angeles Lakers,-3.0
+"Fri, Feb 1, 2019",Charlotte Hornets,Memphis Grizzlies,8.0
+"Fri, Feb 1, 2019",New York Knicks,Boston Celtics,-14.0
+"Fri, Feb 1, 2019",Miami Heat,Oklahoma City Thunder,-16.0
+"Fri, Feb 1, 2019",Utah Jazz,Atlanta Hawks,16.0
+"Fri, Feb 1, 2019",Denver Nuggets,Houston Rockets,14.0
+"Sat, Feb 2, 2019",Detroit Pistons,Los Angeles Clippers,-10.0
+"Sat, Feb 2, 2019",Charlotte Hornets,Chicago Bulls,7.0
+"Sat, Feb 2, 2019",Orlando Magic,Brooklyn Nets,13.0
+"Sat, Feb 2, 2019",Washington Wizards,Milwaukee Bucks,-16.0
+"Sat, Feb 2, 2019",Cleveland Cavaliers,Dallas Mavericks,-13.0
+"Sat, Feb 2, 2019",Miami Heat,Indiana Pacers,-7.0
+"Sat, Feb 2, 2019",Golden State Warriors,Los Angeles Lakers,14.0
+"Sat, Feb 2, 2019",San Antonio Spurs,New Orleans Pelicans,5.0
+"Sat, Feb 2, 2019",Minnesota Timberwolves,Denver Nuggets,-1.0
+"Sat, Feb 2, 2019",Phoenix Suns,Atlanta Hawks,-6.0
+"Sat, Feb 2, 2019",Utah Jazz,Houston Rockets,-27.0
+"Sat, Feb 2, 2019",Sacramento Kings,Philadelphia 76ers,7.0
+"Sun, Feb 3, 2019",New York Knicks,Memphis Grizzlies,-12.0
+"Sun, Feb 3, 2019",Boston Celtics,Oklahoma City Thunder,5.0
+"Sun, Feb 3, 2019",Toronto Raptors,Los Angeles Clippers,18.0
+"Mon, Feb 4, 2019",Detroit Pistons,Denver Nuggets,26.0
+"Mon, Feb 4, 2019",Washington Wizards,Atlanta Hawks,-8.0
+"Mon, Feb 4, 2019",Brooklyn Nets,Milwaukee Bucks,-19.0
+"Mon, Feb 4, 2019",New Orleans Pelicans,Indiana Pacers,-2.0
+"Mon, Feb 4, 2019",Phoenix Suns,Houston Rockets,-8.0
+"Mon, Feb 4, 2019",Sacramento Kings,San Antonio Spurs,15.0
+"Tue, Feb 5, 2019",Charlotte Hornets,Los Angeles Clippers,-2.0
+"Tue, Feb 5, 2019",Cleveland Cavaliers,Boston Celtics,-7.0
+"Tue, Feb 5, 2019",Indiana Pacers,Los Angeles Lakers,42.0
+"Tue, Feb 5, 2019",New York Knicks,Detroit Pistons,-13.0
+"Tue, Feb 5, 2019",Memphis Grizzlies,Minnesota Timberwolves,2.0
+"Tue, Feb 5, 2019",Oklahoma City Thunder,Orlando Magic,10.0
+"Tue, Feb 5, 2019",Philadelphia 76ers,Toronto Raptors,-12.0
+"Tue, Feb 5, 2019",Portland Trail Blazers,Miami Heat,-10.0
+"Wed, Feb 6, 2019",Brooklyn Nets,Denver Nuggets,5.0
+"Wed, Feb 6, 2019",Chicago Bulls,New Orleans Pelicans,-5.0
+"Wed, Feb 6, 2019",Milwaukee Bucks,Washington Wizards,19.0
+"Wed, Feb 6, 2019",Dallas Mavericks,Charlotte Hornets,6.0
+"Wed, Feb 6, 2019",Utah Jazz,Phoenix Suns,28.0
+"Wed, Feb 6, 2019",Sacramento Kings,Houston Rockets,-26.0
+"Wed, Feb 6, 2019",Golden State Warriors,San Antonio Spurs,39.0
+"Thu, Feb 7, 2019",Indiana Pacers,Los Angeles Clippers,24.0
+"Thu, Feb 7, 2019",Orlando Magic,Minnesota Timberwolves,10.0
+"Thu, Feb 7, 2019",Atlanta Hawks,Toronto Raptors,-18.0
+"Thu, Feb 7, 2019",Boston Celtics,Los Angeles Lakers,-1.0
+"Thu, Feb 7, 2019",Oklahoma City Thunder,Memphis Grizzlies,22.0
+"Thu, Feb 7, 2019",Portland Trail Blazers,San Antonio Spurs,9.0
+"Fri, Feb 8, 2019",Detroit Pistons,New York Knicks,17.0
+"Fri, Feb 8, 2019",Philadelphia 76ers,Denver Nuggets,7.0
+"Fri, Feb 8, 2019",Washington Wizards,Cleveland Cavaliers,13.0
+"Fri, Feb 8, 2019",Brooklyn Nets,Chicago Bulls,-19.0
+"Fri, Feb 8, 2019",Dallas Mavericks,Milwaukee Bucks,-15.0
+"Fri, Feb 8, 2019",Phoenix Suns,Golden State Warriors,-10.0
+"Fri, Feb 8, 2019",New Orleans Pelicans,Minnesota Timberwolves,5.0
+"Fri, Feb 8, 2019",Sacramento Kings,Miami Heat,6.0
+"Sat, Feb 9, 2019",Utah Jazz,San Antonio Spurs,20.0
+"Sat, Feb 9, 2019",Indiana Pacers,Cleveland Cavaliers,15.0
+"Sat, Feb 9, 2019",Atlanta Hawks,Charlotte Hornets,-9.0
+"Sat, Feb 9, 2019",New York Knicks,Toronto Raptors,-5.0
+"Sat, Feb 9, 2019",Boston Celtics,Los Angeles Clippers,-11.0
+"Sat, Feb 9, 2019",Chicago Bulls,Washington Wizards,-9.0
+"Sat, Feb 9, 2019",Memphis Grizzlies,New Orleans Pelicans,9.0
+"Sat, Feb 9, 2019",Houston Rockets,Oklahoma City Thunder,-5.0
+"Sat, Feb 9, 2019",Milwaukee Bucks,Orlando Magic,-20.0
+"Sun, Feb 10, 2019",Dallas Mavericks,Portland Trail Blazers,1.0
+"Sun, Feb 10, 2019",Philadelphia 76ers,Los Angeles Lakers,23.0
+"Sun, Feb 10, 2019",Sacramento Kings,Phoenix Suns,13.0
+"Sun, Feb 10, 2019",Atlanta Hawks,Orlando Magic,-16.0
+"Sun, Feb 10, 2019",Golden State Warriors,Miami Heat,2.0
+"Mon, Feb 11, 2019",Cleveland Cavaliers,New York Knicks,3.0
+"Mon, Feb 11, 2019",Detroit Pistons,Washington Wizards,9.0
+"Mon, Feb 11, 2019",Indiana Pacers,Charlotte Hornets,9.0
+"Mon, Feb 11, 2019",Toronto Raptors,Brooklyn Nets,2.0
+"Mon, Feb 11, 2019",Chicago Bulls,Milwaukee Bucks,-13.0
+"Mon, Feb 11, 2019",Houston Rockets,Dallas Mavericks,16.0
+"Mon, Feb 11, 2019",Minnesota Timberwolves,Los Angeles Clippers,10.0
+"Mon, Feb 11, 2019",Oklahoma City Thunder,Portland Trail Blazers,9.0
+"Mon, Feb 11, 2019",Denver Nuggets,Miami Heat,16.0
+"Tue, Feb 12, 2019",Atlanta Hawks,Los Angeles Lakers,4.0
+"Tue, Feb 12, 2019",Memphis Grizzlies,San Antonio Spurs,-1.0
+"Tue, Feb 12, 2019",New Orleans Pelicans,Orlando Magic,-30.0
+"Tue, Feb 12, 2019",Philadelphia 76ers,Boston Celtics,-3.0
+"Tue, Feb 12, 2019",Golden State Warriors,Utah Jazz,7.0
+"Wed, Feb 13, 2019",Cleveland Cavaliers,Brooklyn Nets,-9.0
+"Wed, Feb 13, 2019",Indiana Pacers,Milwaukee Bucks,-9.0
+"Wed, Feb 13, 2019",Boston Celtics,Detroit Pistons,8.0
+"Wed, Feb 13, 2019",New York Knicks,Philadelphia 76ers,-15.0
+"Wed, Feb 13, 2019",Toronto Raptors,Washington Wizards,9.0
+"Wed, Feb 13, 2019",Chicago Bulls,Memphis Grizzlies,12.0
+"Wed, Feb 13, 2019",Minnesota Timberwolves,Houston Rockets,10.0
+"Wed, Feb 13, 2019",Dallas Mavericks,Miami Heat,-11.0
+"Wed, Feb 13, 2019",Denver Nuggets,Sacramento Kings,2.0
+"Wed, Feb 13, 2019",Los Angeles Clippers,Phoenix Suns,27.0
+"Wed, Feb 13, 2019",Portland Trail Blazers,Golden State Warriors,22.0
+"Thu, Feb 14, 2019",Orlando Magic,Charlotte Hornets,38.0
+"Thu, Feb 14, 2019",Atlanta Hawks,New York Knicks,-15.0
+"Thu, Feb 14, 2019",New Orleans Pelicans,Oklahoma City Thunder,9.0
+"Thu, Feb 21, 2019",Cleveland Cavaliers,Phoenix Suns,13.0
+"Thu, Feb 21, 2019",Philadelphia 76ers,Miami Heat,4.0
+"Thu, Feb 21, 2019",Brooklyn Nets,Portland Trail Blazers,-14.0
+"Thu, Feb 21, 2019",Milwaukee Bucks,Boston Celtics,1.0
+"Thu, Feb 21, 2019",Golden State Warriors,Sacramento Kings,2.0
+"Thu, Feb 21, 2019",Los Angeles Lakers,Houston Rockets,5.0
+"Fri, Feb 22, 2019",Charlotte Hornets,Washington Wizards,13.0
+"Fri, Feb 22, 2019",Indiana Pacers,New Orleans Pelicans,15.0
+"Fri, Feb 22, 2019",Orlando Magic,Chicago Bulls,-1.0
+"Fri, Feb 22, 2019",Toronto Raptors,San Antonio Spurs,3.0
+"Fri, Feb 22, 2019",Atlanta Hawks,Detroit Pistons,-3.0
+"Fri, Feb 22, 2019",New York Knicks,Minnesota Timberwolves,-11.0
+"Fri, Feb 22, 2019",Memphis Grizzlies,Los Angeles Clippers,-6.0
+"Fri, Feb 22, 2019",Dallas Mavericks,Denver Nuggets,-10.0
+"Fri, Feb 22, 2019",Oklahoma City Thunder,Utah Jazz,1.0
+"Sat, Feb 23, 2019",Philadelphia 76ers,Portland Trail Blazers,-15.0
+"Sat, Feb 23, 2019",Atlanta Hawks,Phoenix Suns,8.0
+"Sat, Feb 23, 2019",Charlotte Hornets,Brooklyn Nets,-2.0
+"Sat, Feb 23, 2019",Cleveland Cavaliers,Memphis Grizzlies,5.0
+"Sat, Feb 23, 2019",New Orleans Pelicans,Los Angeles Lakers,13.0
+"Sat, Feb 23, 2019",Washington Wizards,Indiana Pacers,-7.0
+"Sat, Feb 23, 2019",Miami Heat,Detroit Pistons,-23.0
+"Sat, Feb 23, 2019",Chicago Bulls,Boston Celtics,10.0
+"Sat, Feb 23, 2019",Oklahoma City Thunder,Sacramento Kings,-3.0
+"Sat, Feb 23, 2019",Golden State Warriors,Houston Rockets,-6.0
+"Sat, Feb 23, 2019",Milwaukee Bucks,Minnesota Timberwolves,12.0
+"Sat, Feb 23, 2019",Utah Jazz,Dallas Mavericks,16.0
+"Sun, Feb 24, 2019",Toronto Raptors,Orlando Magic,-15.0
+"Sun, Feb 24, 2019",Denver Nuggets,Los Angeles Clippers,27.0
+"Sun, Feb 24, 2019",New York Knicks,San Antonio Spurs,12.0
+"Mon, Feb 25, 2019",Charlotte Hornets,Golden State Warriors,-11.0
+"Mon, Feb 25, 2019",Cleveland Cavaliers,Portland Trail Blazers,-13.0
+"Mon, Feb 25, 2019",Detroit Pistons,Indiana Pacers,4.0
+"Mon, Feb 25, 2019",Brooklyn Nets,San Antonio Spurs,16.0
+"Mon, Feb 25, 2019",Miami Heat,Phoenix Suns,-3.0
+"Mon, Feb 25, 2019",Chicago Bulls,Milwaukee Bucks,-11.0
+"Mon, Feb 25, 2019",Houston Rockets,Atlanta Hawks,8.0
+"Mon, Feb 25, 2019",Memphis Grizzlies,Los Angeles Lakers,5.0
+"Mon, Feb 25, 2019",Minnesota Timberwolves,Sacramento Kings,7.0
+"Mon, Feb 25, 2019",New Orleans Pelicans,Philadelphia 76ers,-1.0
+"Mon, Feb 25, 2019",Los Angeles Clippers,Dallas Mavericks,9.0
+"Tue, Feb 26, 2019",New York Knicks,Orlando Magic,5.0
+"Tue, Feb 26, 2019",Toronto Raptors,Boston Celtics,23.0
+"Tue, Feb 26, 2019",Denver Nuggets,Oklahoma City Thunder,9.0
+"Wed, Feb 27, 2019",Charlotte Hornets,Houston Rockets,-5.0
+"Wed, Feb 27, 2019",Atlanta Hawks,Minnesota Timberwolves,8.0
+"Wed, Feb 27, 2019",Brooklyn Nets,Washington Wizards,-9.0
+"Wed, Feb 27, 2019",Miami Heat,Golden State Warriors,1.0
+"Wed, Feb 27, 2019",Boston Celtics,Portland Trail Blazers,-5.0
+"Wed, Feb 27, 2019",Memphis Grizzlies,Chicago Bulls,-2.0
+"Wed, Feb 27, 2019",Dallas Mavericks,Indiana Pacers,9.0
+"Wed, Feb 27, 2019",San Antonio Spurs,Detroit Pistons,12.0
+"Wed, Feb 27, 2019",Utah Jazz,Los Angeles Clippers,6.0
+"Wed, Feb 27, 2019",Sacramento Kings,Milwaukee Bucks,-1.0
+"Wed, Feb 27, 2019",Los Angeles Lakers,New Orleans Pelicans,6.0
+"Thu, Feb 28, 2019",Indiana Pacers,Minnesota Timberwolves,7.0
+"Thu, Feb 28, 2019",Orlando Magic,Golden State Warriors,7.0
+"Thu, Feb 28, 2019",New York Knicks,Cleveland Cavaliers,-7.0
+"Thu, Feb 28, 2019",Houston Rockets,Miami Heat,3.0
+"Thu, Feb 28, 2019",Oklahoma City Thunder,Philadelphia 76ers,-4.0
+"Thu, Feb 28, 2019",Denver Nuggets,Utah Jazz,-7.0
+"Fri, Mar 1, 2019",Atlanta Hawks,Chicago Bulls,-7.0
+"Fri, Mar 1, 2019",Brooklyn Nets,Charlotte Hornets,-11.0
+"Fri, Mar 1, 2019",Boston Celtics,Washington Wizards,11.0
+"Fri, Mar 1, 2019",Toronto Raptors,Portland Trail Blazers,2.0
+"Fri, Mar 1, 2019",Phoenix Suns,New Orleans Pelicans,-14.0
+"Fri, Mar 1, 2019",Sacramento Kings,Los Angeles Clippers,-7.0
+"Fri, Mar 1, 2019",Los Angeles Lakers,Milwaukee Bucks,-11.0
+"Sat, Mar 2, 2019",Cleveland Cavaliers,Detroit Pistons,-36.0
+"Sat, Mar 2, 2019",Indiana Pacers,Orlando Magic,-5.0
+"Sat, Mar 2, 2019",Miami Heat,Brooklyn Nets,29.0
+"Sat, Mar 2, 2019",Dallas Mavericks,Memphis Grizzlies,-30.0
+"Sat, Mar 2, 2019",Philadelphia 76ers,Golden State Warriors,-3.0
+"Sat, Mar 2, 2019",San Antonio Spurs,Oklahoma City Thunder,14.0
+"Sat, Mar 2, 2019",Denver Nuggets,New Orleans Pelicans,-8.0
+"Sat, Mar 2, 2019",Phoenix Suns,Los Angeles Lakers,9.0
+"Sat, Mar 2, 2019",Utah Jazz,Milwaukee Bucks,4.0
+"Sun, Mar 3, 2019",Charlotte Hornets,Portland Trail Blazers,-10.0
+"Sun, Mar 3, 2019",Boston Celtics,Houston Rockets,-11.0
+"Sun, Mar 3, 2019",Chicago Bulls,Atlanta Hawks,-5.0
+"Sun, Mar 3, 2019",Los Angeles Clippers,New York Knicks,21.0
+"Sun, Mar 3, 2019",Cleveland Cavaliers,Orlando Magic,14.0
+"Sun, Mar 3, 2019",Detroit Pistons,Toronto Raptors,5.0
+"Sun, Mar 3, 2019",Washington Wizards,Minnesota Timberwolves,14.0
+"Sun, Mar 3, 2019",Oklahoma City Thunder,Memphis Grizzlies,4.0
+"Mon, Mar 4, 2019",Brooklyn Nets,Dallas Mavericks,39.0
+"Mon, Mar 4, 2019",Miami Heat,Atlanta Hawks,1.0
+"Mon, Mar 4, 2019",San Antonio Spurs,Denver Nuggets,1.0
+"Mon, Mar 4, 2019",Phoenix Suns,Milwaukee Bucks,9.0
+"Mon, Mar 4, 2019",Utah Jazz,New Orleans Pelicans,-3.0
+"Mon, Mar 4, 2019",Sacramento Kings,New York Knicks,7.0
+"Mon, Mar 4, 2019",Los Angeles Lakers,Los Angeles Clippers,-8.0
+"Tue, Mar 5, 2019",Indiana Pacers,Chicago Bulls,9.0
+"Tue, Mar 5, 2019",Philadelphia 76ers,Orlando Magic,8.0
+"Tue, Mar 5, 2019",Memphis Grizzlies,Portland Trail Blazers,9.0
+"Tue, Mar 5, 2019",Minnesota Timberwolves,Oklahoma City Thunder,11.0
+"Tue, Mar 5, 2019",Toronto Raptors,Houston Rockets,-12.0
+"Tue, Mar 5, 2019",Golden State Warriors,Boston Celtics,-33.0
+"Wed, Mar 6, 2019",Charlotte Hornets,Miami Heat,-7.0
+"Wed, Mar 6, 2019",Detroit Pistons,Minnesota Timberwolves,17.0
+"Wed, Mar 6, 2019",Washington Wizards,Dallas Mavericks,9.0
+"Wed, Mar 6, 2019",Atlanta Hawks,San Antonio Spurs,-7.0
+"Wed, Mar 6, 2019",Brooklyn Nets,Cleveland Cavaliers,6.0
+"Wed, Mar 6, 2019",Chicago Bulls,Philadelphia 76ers,1.0
+"Wed, Mar 6, 2019",New Orleans Pelicans,Utah Jazz,-10.0
+"Wed, Mar 6, 2019",Phoenix Suns,New York Knicks,11.0
+"Wed, Mar 6, 2019",Sacramento Kings,Boston Celtics,-2.0
+"Wed, Mar 6, 2019",Los Angeles Lakers,Denver Nuggets,-16.0
+"Thu, Mar 7, 2019",Milwaukee Bucks,Indiana Pacers,19.0
+"Thu, Mar 7, 2019",Portland Trail Blazers,Oklahoma City Thunder,-8.0
+"Fri, Mar 8, 2019",Charlotte Hornets,Washington Wizards,1.0
+"Fri, Mar 8, 2019",Orlando Magic,Dallas Mavericks,5.0
+"Fri, Mar 8, 2019",Chicago Bulls,Detroit Pistons,-8.0
+"Fri, Mar 8, 2019",Houston Rockets,Philadelphia 76ers,16.0
+"Fri, Mar 8, 2019",Memphis Grizzlies,Utah Jazz,10.0
+"Fri, Mar 8, 2019",Miami Heat,Cleveland Cavaliers,16.0
+"Fri, Mar 8, 2019",New Orleans Pelicans,Toronto Raptors,-23.0
+"Fri, Mar 8, 2019",Golden State Warriors,Denver Nuggets,17.0
+"Fri, Mar 8, 2019",Los Angeles Clippers,Oklahoma City Thunder,8.0
+"Sat, Mar 9, 2019",New York Knicks,Sacramento Kings,-8.0
+"Sat, Mar 9, 2019",Atlanta Hawks,Brooklyn Nets,-2.0
+"Sat, Mar 9, 2019",Minnesota Timberwolves,Washington Wizards,5.0
+"Sat, Mar 9, 2019",Los Angeles Lakers,Boston Celtics,-13.0
+"Sat, Mar 9, 2019",Milwaukee Bucks,Charlotte Hornets,17.0
+"Sat, Mar 9, 2019",Portland Trail Blazers,Phoenix Suns,7.0
+"Sun, Mar 10, 2019",Detroit Pistons,Chicago Bulls,23.0
+"Sun, Mar 10, 2019",Miami Heat,Toronto Raptors,-21.0
+"Sun, Mar 10, 2019",Philadelphia 76ers,Indiana Pacers,17.0
+"Sun, Mar 10, 2019",Atlanta Hawks,New Orleans Pelicans,12.0
+"Sun, Mar 10, 2019",Memphis Grizzlies,Orlando Magic,8.0
+"Sun, Mar 10, 2019",Dallas Mavericks,Houston Rockets,-1.0
+"Sun, Mar 10, 2019",Minnesota Timberwolves,New York Knicks,11.0
+"Sun, Mar 10, 2019",San Antonio Spurs,Milwaukee Bucks,7.0
+"Sun, Mar 10, 2019",Golden State Warriors,Phoenix Suns,-4.0
+"Mon, Mar 11, 2019",Cleveland Cavaliers,Toronto Raptors,25.0
+"Mon, Mar 11, 2019",Washington Wizards,Sacramento Kings,6.0
+"Mon, Mar 11, 2019",Brooklyn Nets,Detroit Pistons,28.0
+"Mon, Mar 11, 2019",Houston Rockets,Charlotte Hornets,12.0
+"Mon, Mar 11, 2019",Utah Jazz,Oklahoma City Thunder,-9.0
+"Mon, Mar 11, 2019",Los Angeles Clippers,Boston Celtics,25.0
+"Tue, Mar 12, 2019",Indiana Pacers,New York Knicks,5.0
+"Tue, Mar 12, 2019",Philadelphia 76ers,Cleveland Cavaliers,7.0
+"Tue, Mar 12, 2019",Chicago Bulls,Los Angeles Lakers,-16.0
+"Tue, Mar 12, 2019",Dallas Mavericks,San Antonio Spurs,-7.0
+"Tue, Mar 12, 2019",New Orleans Pelicans,Milwaukee Bucks,-17.0
+"Tue, Mar 12, 2019",Denver Nuggets,Minnesota Timberwolves,26.0
+"Tue, Mar 12, 2019",Los Angeles Clippers,Portland Trail Blazers,-21.0
+"Wed, Mar 13, 2019",Oklahoma City Thunder,Brooklyn Nets,12.0
+"Wed, Mar 13, 2019",Washington Wizards,Orlando Magic,10.0
+"Wed, Mar 13, 2019",Atlanta Hawks,Memphis Grizzlies,21.0
+"Wed, Mar 13, 2019",Miami Heat,Detroit Pistons,34.0
+"Wed, Mar 13, 2019",Houston Rockets,Golden State Warriors,-2.0
+"Wed, Mar 13, 2019",Phoenix Suns,Utah Jazz,-17.0
+"Thu, Mar 14, 2019",Indiana Pacers,Oklahoma City Thunder,2.0
+"Thu, Mar 14, 2019",Orlando Magic,Cleveland Cavaliers,29.0
+"Thu, Mar 14, 2019",Boston Celtics,Sacramento Kings,6.0
+"Thu, Mar 14, 2019",Toronto Raptors,Los Angeles Lakers,13.0
+"Thu, Mar 14, 2019",Utah Jazz,Minnesota Timberwolves,20.0
+"Thu, Mar 14, 2019",Denver Nuggets,Dallas Mavericks,1.0
+"Fri, Mar 15, 2019",Detroit Pistons,Los Angeles Lakers,14.0
+"Fri, Mar 15, 2019",Philadelphia 76ers,Sacramento Kings,9.0
+"Fri, Mar 15, 2019",Washington Wizards,Charlotte Hornets,-6.0
+"Fri, Mar 15, 2019",Houston Rockets,Phoenix Suns,6.0
+"Fri, Mar 15, 2019",Miami Heat,Milwaukee Bucks,-15.0
+"Fri, Mar 15, 2019",New Orleans Pelicans,Portland Trail Blazers,-12.0
+"Fri, Mar 15, 2019",San Antonio Spurs,New York Knicks,26.0
+"Fri, Mar 15, 2019",Los Angeles Clippers,Chicago Bulls,7.0
+"Sat, Mar 16, 2019",Boston Celtics,Atlanta Hawks,9.0
+"Sat, Mar 16, 2019",New Orleans Pelicans,Phoenix Suns,-2.0
+"Sat, Mar 16, 2019",Washington Wizards,Memphis Grizzlies,7.0
+"Sat, Mar 16, 2019",Dallas Mavericks,Cleveland Cavaliers,5.0
+"Sat, Mar 16, 2019",Oklahoma City Thunder,Golden State Warriors,-22.0
+"Sat, Mar 16, 2019",San Antonio Spurs,Portland Trail Blazers,5.0
+"Sat, Mar 16, 2019",Denver Nuggets,Indiana Pacers,2.0
+"Sat, Mar 16, 2019",Utah Jazz,Brooklyn Nets,16.0
+"Sun, Mar 17, 2019",New York Knicks,Los Angeles Lakers,1.0
+"Sun, Mar 17, 2019",Miami Heat,Charlotte Hornets,18.0
+"Sun, Mar 17, 2019",Milwaukee Bucks,Philadelphia 76ers,-5.0
+"Sun, Mar 17, 2019",Detroit Pistons,Toronto Raptors,3.0
+"Sun, Mar 17, 2019",Orlando Magic,Atlanta Hawks,10.0
+"Sun, Mar 17, 2019",Sacramento Kings,Chicago Bulls,27.0
+"Sun, Mar 17, 2019",Houston Rockets,Minnesota Timberwolves,15.0
+"Sun, Mar 17, 2019",Los Angeles Clippers,Brooklyn Nets,3.0
+"Mon, Mar 18, 2019",Cleveland Cavaliers,Detroit Pistons,7.0
+"Mon, Mar 18, 2019",Washington Wizards,Utah Jazz,-21.0
+"Mon, Mar 18, 2019",Boston Celtics,Denver Nuggets,-9.0
+"Mon, Mar 18, 2019",Toronto Raptors,New York Knicks,36.0
+"Mon, Mar 18, 2019",Oklahoma City Thunder,Miami Heat,-9.0
+"Mon, Mar 18, 2019",San Antonio Spurs,Golden State Warriors,6.0
+"Mon, Mar 18, 2019",Dallas Mavericks,New Orleans Pelicans,-4.0
+"Mon, Mar 18, 2019",Phoenix Suns,Chicago Bulls,-15.0
+"Mon, Mar 18, 2019",Portland Trail Blazers,Indiana Pacers,8.0
+"Tue, Mar 19, 2019",Charlotte Hornets,Philadelphia 76ers,-4.0
+"Tue, Mar 19, 2019",Atlanta Hawks,Houston Rockets,-16.0
+"Tue, Mar 19, 2019",Milwaukee Bucks,Los Angeles Lakers,14.0
+"Tue, Mar 19, 2019",Minnesota Timberwolves,Golden State Warriors,-10.0
+"Tue, Mar 19, 2019",Sacramento Kings,Brooklyn Nets,-2.0
+"Tue, Mar 19, 2019",Los Angeles Clippers,Indiana Pacers,6.0
+"Wed, Mar 20, 2019",Cleveland Cavaliers,Milwaukee Bucks,5.0
+"Wed, Mar 20, 2019",Orlando Magic,New Orleans Pelicans,23.0
+"Wed, Mar 20, 2019",Philadelphia 76ers,Boston Celtics,3.0
+"Wed, Mar 20, 2019",New York Knicks,Utah Jazz,-21.0
+"Wed, Mar 20, 2019",Chicago Bulls,Washington Wizards,6.0
+"Wed, Mar 20, 2019",Memphis Grizzlies,Houston Rockets,1.0
+"Wed, Mar 20, 2019",San Antonio Spurs,Miami Heat,-5.0
+"Wed, Mar 20, 2019",Oklahoma City Thunder,Toronto Raptors,-9.0
+"Wed, Mar 20, 2019",Portland Trail Blazers,Dallas Mavericks,8.0
+"Thu, Mar 21, 2019",Charlotte Hornets,Minnesota Timberwolves,7.0
+"Thu, Mar 21, 2019",Washington Wizards,Denver Nuggets,-5.0
+"Thu, Mar 21, 2019",Atlanta Hawks,Utah Jazz,3.0
+"Thu, Mar 21, 2019",Phoenix Suns,Detroit Pistons,-20.0
+"Thu, Mar 21, 2019",Sacramento Kings,Dallas Mavericks,16.0
+"Thu, Mar 21, 2019",Golden State Warriors,Indiana Pacers,23.0
+"Fri, Mar 22, 2019",Orlando Magic,Memphis Grizzlies,4.0
+"Fri, Mar 22, 2019",Cleveland Cavaliers,Los Angeles Clippers,-2.0
+"Fri, Mar 22, 2019",New York Knicks,Denver Nuggets,-18.0
+"Fri, Mar 22, 2019",Toronto Raptors,Oklahoma City Thunder,-7.0
+"Fri, Mar 22, 2019",Houston Rockets,San Antonio Spurs,6.0
+"Fri, Mar 22, 2019",Milwaukee Bucks,Miami Heat,29.0
+"Fri, Mar 22, 2019",Los Angeles Lakers,Brooklyn Nets,-5.0
+"Sat, Mar 23, 2019",Charlotte Hornets,Boston Celtics,7.0
+"Sat, Mar 23, 2019",Washington Wizards,Miami Heat,-5.0
+"Sat, Mar 23, 2019",Atlanta Hawks,Philadelphia 76ers,2.0
+"Sat, Mar 23, 2019",Chicago Bulls,Utah Jazz,-31.0
+"Sat, Mar 23, 2019",Memphis Grizzlies,Minnesota Timberwolves,-13.0
+"Sat, Mar 23, 2019",Golden State Warriors,Dallas Mavericks,-35.0
+"Sat, Mar 23, 2019",Portland Trail Blazers,Detroit Pistons,5.0
+"Sat, Mar 23, 2019",Sacramento Kings,Phoenix Suns,9.0
+"Sun, Mar 24, 2019",New York Knicks,Los Angeles Clippers,-11.0
+"Sun, Mar 24, 2019",Milwaukee Bucks,Cleveland Cavaliers,22.0
+"Sun, Mar 24, 2019",Indiana Pacers,Denver Nuggets,36.0
+"Sun, Mar 24, 2019",Toronto Raptors,Charlotte Hornets,-1.0
+"Sun, Mar 24, 2019",New Orleans Pelicans,Houston Rockets,-23.0
+"Sun, Mar 24, 2019",Boston Celtics,San Antonio Spurs,-19.0
+"Sun, Mar 24, 2019",Golden State Warriors,Detroit Pistons,7.0
+"Sun, Mar 24, 2019",Los Angeles Lakers,Sacramento Kings,5.0
+"Mon, Mar 25, 2019",Orlando Magic,Philadelphia 76ers,21.0
+"Mon, Mar 25, 2019",Memphis Grizzlies,Oklahoma City Thunder,12.0
+"Mon, Mar 25, 2019",Utah Jazz,Phoenix Suns,33.0
+"Mon, Mar 25, 2019",Portland Trail Blazers,Brooklyn Nets,4.0
+"Tue, Mar 26, 2019",Charlotte Hornets,San Antonio Spurs,9.0
+"Tue, Mar 26, 2019",Cleveland Cavaliers,Boston Celtics,-10.0
+"Tue, Mar 26, 2019",Miami Heat,Orlando Magic,-5.0
+"Tue, Mar 26, 2019",Toronto Raptors,Chicago Bulls,9.0
+"Tue, Mar 26, 2019",Milwaukee Bucks,Houston Rockets,14.0
+"Tue, Mar 26, 2019",Minnesota Timberwolves,Los Angeles Clippers,-11.0
+"Tue, Mar 26, 2019",New Orleans Pelicans,Atlanta Hawks,-10.0
+"Tue, Mar 26, 2019",Dallas Mavericks,Sacramento Kings,-4.0
+"Tue, Mar 26, 2019",Denver Nuggets,Detroit Pistons,3.0
+"Tue, Mar 26, 2019",Los Angeles Lakers,Washington Wizards,18.0
+"Wed, Mar 27, 2019",Chicago Bulls,Portland Trail Blazers,-20.0
+"Wed, Mar 27, 2019",Memphis Grizzlies,Golden State Warriors,-15.0
+"Wed, Mar 27, 2019",Oklahoma City Thunder,Indiana Pacers,8.0
+"Wed, Mar 27, 2019",Phoenix Suns,Washington Wizards,-3.0
+"Wed, Mar 27, 2019",Utah Jazz,Los Angeles Lakers,15.0
+"Thu, Mar 28, 2019",Detroit Pistons,Orlando Magic,17.0
+"Thu, Mar 28, 2019",Philadelphia 76ers,Brooklyn Nets,13.0
+"Thu, Mar 28, 2019",Miami Heat,Dallas Mavericks,6.0
+"Thu, Mar 28, 2019",New York Knicks,Toronto Raptors,-25.0
+"Thu, Mar 28, 2019",Houston Rockets,Denver Nuggets,27.0
+"Thu, Mar 28, 2019",Milwaukee Bucks,Los Angeles Clippers,10.0
+"Thu, Mar 28, 2019",New Orleans Pelicans,Sacramento Kings,3.0
+"Thu, Mar 28, 2019",San Antonio Spurs,Cleveland Cavaliers,6.0
+"Fri, Mar 29, 2019",Boston Celtics,Indiana Pacers,2.0
+"Fri, Mar 29, 2019",Atlanta Hawks,Portland Trail Blazers,-20.0
+"Fri, Mar 29, 2019",Minnesota Timberwolves,Golden State Warriors,1.0
+"Fri, Mar 29, 2019",Oklahoma City Thunder,Denver Nuggets,-10.0
+"Fri, Mar 29, 2019",Utah Jazz,Washington Wizards,4.0
+"Fri, Mar 29, 2019",Los Angeles Lakers,Charlotte Hornets,14.0
+"Sat, Mar 30, 2019",Los Angeles Clippers,Cleveland Cavaliers,24.0
+"Sat, Mar 30, 2019",Brooklyn Nets,Boston Celtics,14.0
+"Sat, Mar 30, 2019",Houston Rockets,Sacramento Kings,11.0
+"Sat, Mar 30, 2019",Detroit Pistons,Portland Trail Blazers,9.0
+"Sat, Mar 30, 2019",Indiana Pacers,Orlando Magic,-5.0
+"Sat, Mar 30, 2019",New York Knicks,Miami Heat,-8.0
+"Sat, Mar 30, 2019",Chicago Bulls,Toronto Raptors,-23.0
+"Sat, Mar 30, 2019",Minnesota Timberwolves,Philadelphia 76ers,-9.0
+"Sat, Mar 30, 2019",Phoenix Suns,Memphis Grizzlies,-5.0
+"Sun, Mar 31, 2019",Atlanta Hawks,Milwaukee Bucks,1.0
+"Sun, Mar 31, 2019",Oklahoma City Thunder,Dallas Mavericks,-3.0
+"Sun, Mar 31, 2019",New Orleans Pelicans,Los Angeles Lakers,-28.0
+"Sun, Mar 31, 2019",San Antonio Spurs,Sacramento Kings,-7.0
+"Sun, Mar 31, 2019",Denver Nuggets,Washington Wizards,-5.0
+"Sun, Mar 31, 2019",Golden State Warriors,Charlotte Hornets,47.0
+"Sun, Mar 31, 2019",Los Angeles Clippers,Memphis Grizzlies,17.0
+"Mon, Apr 1, 2019",Indiana Pacers,Detroit Pistons,9.0
+"Mon, Apr 1, 2019",Boston Celtics,Miami Heat,5.0
+"Mon, Apr 1, 2019",Brooklyn Nets,Milwaukee Bucks,-10.0
+"Mon, Apr 1, 2019",New York Knicks,Chicago Bulls,8.0
+"Mon, Apr 1, 2019",Toronto Raptors,Orlando Magic,12.0
+"Mon, Apr 1, 2019",Minnesota Timberwolves,Portland Trail Blazers,-10.0
+"Mon, Apr 1, 2019",Dallas Mavericks,Philadelphia 76ers,20.0
+"Mon, Apr 1, 2019",Utah Jazz,Charlotte Hornets,9.0
+"Mon, Apr 1, 2019",Phoenix Suns,Cleveland Cavaliers,9.0
+"Tue, Apr 2, 2019",Oklahoma City Thunder,Los Angeles Lakers,16.0
+"Tue, Apr 2, 2019",San Antonio Spurs,Atlanta Hawks,6.0
+"Tue, Apr 2, 2019",Sacramento Kings,Houston Rockets,-25.0
+"Tue, Apr 2, 2019",Golden State Warriors,Denver Nuggets,14.0
+"Wed, Apr 3, 2019",Detroit Pistons,Indiana Pacers,-19.0
+"Wed, Apr 3, 2019",Orlando Magic,New York Knicks,14.0
+"Wed, Apr 3, 2019",Washington Wizards,Chicago Bulls,-1.0
+"Wed, Apr 3, 2019",Atlanta Hawks,Philadelphia 76ers,8.0
+"Wed, Apr 3, 2019",Brooklyn Nets,Toronto Raptors,-10.0
+"Wed, Apr 3, 2019",Miami Heat,Boston Celtics,-10.0
+"Wed, Apr 3, 2019",New Orleans Pelicans,Charlotte Hornets,-6.0
+"Wed, Apr 3, 2019",Dallas Mavericks,Minnesota Timberwolves,-2.0
+"Wed, Apr 3, 2019",Denver Nuggets,San Antonio Spurs,28.0
+"Wed, Apr 3, 2019",Phoenix Suns,Utah Jazz,-21.0
+"Wed, Apr 3, 2019",Portland Trail Blazers,Memphis Grizzlies,27.0
+"Wed, Apr 3, 2019",Los Angeles Clippers,Houston Rockets,-32.0
+"Thu, Apr 4, 2019",Philadelphia 76ers,Milwaukee Bucks,-6.0
+"Thu, Apr 4, 2019",Sacramento Kings,Cleveland Cavaliers,13.0
+"Thu, Apr 4, 2019",Los Angeles Lakers,Golden State Warriors,-18.0
+"Fri, Apr 5, 2019",Charlotte Hornets,Toronto Raptors,2.0
+"Fri, Apr 5, 2019",Orlando Magic,Atlanta Hawks,36.0
+"Fri, Apr 5, 2019",Washington Wizards,San Antonio Spurs,-17.0
+"Fri, Apr 5, 2019",Houston Rockets,New York Knicks,24.0
+"Fri, Apr 5, 2019",Indiana Pacers,Boston Celtics,-20.0
+"Fri, Apr 5, 2019",Minnesota Timberwolves,Miami Heat,2.0
+"Fri, Apr 5, 2019",Oklahoma City Thunder,Detroit Pistons,13.0
+"Fri, Apr 5, 2019",Dallas Mavericks,Memphis Grizzlies,-10.0
+"Fri, Apr 5, 2019",Utah Jazz,Sacramento Kings,21.0
+"Fri, Apr 5, 2019",Phoenix Suns,New Orleans Pelicans,7.0
+"Fri, Apr 5, 2019",Denver Nuggets,Portland Trail Blazers,9.0
+"Fri, Apr 5, 2019",Golden State Warriors,Cleveland Cavaliers,6.0
+"Fri, Apr 5, 2019",Los Angeles Clippers,Los Angeles Lakers,-5.0
+"Sat, Apr 6, 2019",Milwaukee Bucks,Brooklyn Nets,-5.0
+"Sat, Apr 6, 2019",Chicago Bulls,Philadelphia 76ers,-20.0
+"Sun, Apr 7, 2019",Toronto Raptors,Miami Heat,8.0
+"Sun, Apr 7, 2019",Cleveland Cavaliers,San Antonio Spurs,-22.0
+"Sun, Apr 7, 2019",Minnesota Timberwolves,Oklahoma City Thunder,-6.0
+"Sun, Apr 7, 2019",Detroit Pistons,Charlotte Hornets,-13.0
+"Sun, Apr 7, 2019",Indiana Pacers,Brooklyn Nets,-12.0
+"Sun, Apr 7, 2019",Memphis Grizzlies,Dallas Mavericks,-2.0
+"Sun, Apr 7, 2019",Houston Rockets,Phoenix Suns,36.0
+"Sun, Apr 7, 2019",Milwaukee Bucks,Atlanta Hawks,8.0
+"Sun, Apr 7, 2019",Boston Celtics,Orlando Magic,-8.0
+"Sun, Apr 7, 2019",New York Knicks,Washington Wizards,3.0
+"Sun, Apr 7, 2019",Golden State Warriors,Los Angeles Clippers,27.0
+"Sun, Apr 7, 2019",Portland Trail Blazers,Denver Nuggets,7.0
+"Sun, Apr 7, 2019",Sacramento Kings,New Orleans Pelicans,-4.0
+"Sun, Apr 7, 2019",Los Angeles Lakers,Utah Jazz,4.0
+"Tue, Apr 9, 2019",Cleveland Cavaliers,Charlotte Hornets,-27.0
+"Tue, Apr 9, 2019",Detroit Pistons,Memphis Grizzlies,7.0
+"Tue, Apr 9, 2019",Washington Wizards,Boston Celtics,-6.0
+"Tue, Apr 9, 2019",Miami Heat,Philadelphia 76ers,23.0
+"Tue, Apr 9, 2019",Chicago Bulls,New York Knicks,-10.0
+"Tue, Apr 9, 2019",Minnesota Timberwolves,Toronto Raptors,-20.0
+"Tue, Apr 9, 2019",New Orleans Pelicans,Golden State Warriors,-9.0
+"Tue, Apr 9, 2019",Dallas Mavericks,Phoenix Suns,11.0
+"Tue, Apr 9, 2019",Utah Jazz,Denver Nuggets,10.0
+"Tue, Apr 9, 2019",Oklahoma City Thunder,Houston Rockets,1.0
+"Tue, Apr 9, 2019",Los Angeles Lakers,Portland Trail Blazers,-3.0
+"Wed, Apr 10, 2019",Atlanta Hawks,Indiana Pacers,-1.0
+"Wed, Apr 10, 2019",Brooklyn Nets,Miami Heat,19.0
+"Wed, Apr 10, 2019",Charlotte Hornets,Orlando Magic,-8.0
+"Wed, Apr 10, 2019",Memphis Grizzlies,Golden State Warriors,15.0
+"Wed, Apr 10, 2019",Milwaukee Bucks,Oklahoma City Thunder,-11.0
+"Wed, Apr 10, 2019",New York Knicks,Detroit Pistons,-26.0
+"Wed, Apr 10, 2019",Philadelphia 76ers,Chicago Bulls,16.0
+"Wed, Apr 10, 2019",San Antonio Spurs,Dallas Mavericks,11.0
+"Wed, Apr 10, 2019",Denver Nuggets,Minnesota Timberwolves,4.0
+"Wed, Apr 10, 2019",Los Angeles Clippers,Utah Jazz,6.0
+"Wed, Apr 10, 2019",Portland Trail Blazers,Sacramento Kings,5.0
+Playoffs,,,
+"Sat, Apr 13, 2019",Philadelphia 76ers,Brooklyn Nets,-9.0
+"Sat, Apr 13, 2019",Toronto Raptors,Orlando Magic,-3.0
+"Sat, Apr 13, 2019",Golden State Warriors,Los Angeles Clippers,17.0
+"Sat, Apr 13, 2019",Denver Nuggets,San Antonio Spurs,-5.0
+"Sun, Apr 14, 2019",Boston Celtics,Indiana Pacers,10.0
+"Sun, Apr 14, 2019",Portland Trail Blazers,Oklahoma City Thunder,5.0
+"Sun, Apr 14, 2019",Milwaukee Bucks,Detroit Pistons,35.0
+"Sun, Apr 14, 2019",Houston Rockets,Utah Jazz,32.0
+"Mon, Apr 15, 2019",Philadelphia 76ers,Brooklyn Nets,22.0
+"Mon, Apr 15, 2019",Golden State Warriors,Los Angeles Clippers,-4.0
+"Tue, Apr 16, 2019",Toronto Raptors,Orlando Magic,29.0
+"Tue, Apr 16, 2019",Denver Nuggets,San Antonio Spurs,9.0
+"Tue, Apr 16, 2019",Portland Trail Blazers,Oklahoma City Thunder,20.0
+"Wed, Apr 17, 2019",Boston Celtics,Indiana Pacers,8.0
+"Wed, Apr 17, 2019",Milwaukee Bucks,Detroit Pistons,21.0
+"Wed, Apr 17, 2019",Houston Rockets,Utah Jazz,20.0
+"Thu, Apr 18, 2019",Brooklyn Nets,Philadelphia 76ers,-16.0
+"Thu, Apr 18, 2019",San Antonio Spurs,Denver Nuggets,10.0
+"Thu, Apr 18, 2019",Los Angeles Clippers,Golden State Warriors,-27.0
+"Fri, Apr 19, 2019",Orlando Magic,Toronto Raptors,-5.0
+"Fri, Apr 19, 2019",Indiana Pacers,Boston Celtics,-8.0
+"Fri, Apr 19, 2019",Oklahoma City Thunder,Portland Trail Blazers,12.0
+"Sat, Apr 20, 2019",Brooklyn Nets,Philadelphia 76ers,-4.0
+"Sat, Apr 20, 2019",San Antonio Spurs,Denver Nuggets,-14.0
+"Sat, Apr 20, 2019",Detroit Pistons,Milwaukee Bucks,-16.0
+"Sat, Apr 20, 2019",Utah Jazz,Houston Rockets,-3.0
+"Sun, Apr 21, 2019",Indiana Pacers,Boston Celtics,-4.0
+"Sun, Apr 21, 2019",Los Angeles Clippers,Golden State Warriors,-8.0
+"Sun, Apr 21, 2019",Orlando Magic,Toronto Raptors,-22.0
+"Sun, Apr 21, 2019",Oklahoma City Thunder,Portland Trail Blazers,-13.0
+"Mon, Apr 22, 2019",Detroit Pistons,Milwaukee Bucks,-23.0
+"Mon, Apr 22, 2019",Utah Jazz,Houston Rockets,16.0
+"Tue, Apr 23, 2019",Toronto Raptors,Orlando Magic,19.0
+"Tue, Apr 23, 2019",Philadelphia 76ers,Brooklyn Nets,22.0
+"Tue, Apr 23, 2019",Denver Nuggets,San Antonio Spurs,18.0
+"Tue, Apr 23, 2019",Portland Trail Blazers,Oklahoma City Thunder,3.0
+"Wed, Apr 24, 2019",Houston Rockets,Utah Jazz,7.0
+"Wed, Apr 24, 2019",Golden State Warriors,Los Angeles Clippers,-8.0
+"Thu, Apr 25, 2019",San Antonio Spurs,Denver Nuggets,17.0
+"Fri, Apr 26, 2019",Los Angeles Clippers,Golden State Warriors,-19.0
+"Sat, Apr 27, 2019",Toronto Raptors,Philadelphia 76ers,13.0
+"Sat, Apr 27, 2019",Denver Nuggets,San Antonio Spurs,4.0
+"Sun, Apr 28, 2019",Milwaukee Bucks,Boston Celtics,-22.0
+"Sun, Apr 28, 2019",Golden State Warriors,Houston Rockets,4.0
+"Mon, Apr 29, 2019",Toronto Raptors,Philadelphia 76ers,-5.0
+"Mon, Apr 29, 2019",Denver Nuggets,Portland Trail Blazers,8.0
+"Tue, Apr 30, 2019",Milwaukee Bucks,Boston Celtics,21.0
+"Tue, Apr 30, 2019",Golden State Warriors,Houston Rockets,6.0
+"Wed, May 1, 2019",Denver Nuggets,Portland Trail Blazers,-7.0
+"Thu, May 2, 2019",Philadelphia 76ers,Toronto Raptors,21.0
+"Fri, May 3, 2019",Boston Celtics,Milwaukee Bucks,-7.0
+"Fri, May 3, 2019",Portland Trail Blazers,Denver Nuggets,3.0
+"Sat, May 4, 2019",Houston Rockets,Golden State Warriors,5.0
+"Sun, May 5, 2019",Philadelphia 76ers,Toronto Raptors,-5.0
+"Sun, May 5, 2019",Portland Trail Blazers,Denver Nuggets,-4.0
+"Mon, May 6, 2019",Boston Celtics,Milwaukee Bucks,-12.0
+"Mon, May 6, 2019",Houston Rockets,Golden State Warriors,4.0
+"Tue, May 7, 2019",Toronto Raptors,Philadelphia 76ers,36.0
+"Tue, May 7, 2019",Denver Nuggets,Portland Trail Blazers,26.0
+"Wed, May 8, 2019",Milwaukee Bucks,Boston Celtics,25.0
+"Wed, May 8, 2019",Golden State Warriors,Houston Rockets,5.0
+"Thu, May 9, 2019",Philadelphia 76ers,Toronto Raptors,11.0
+"Thu, May 9, 2019",Portland Trail Blazers,Denver Nuggets,11.0
+"Fri, May 10, 2019",Houston Rockets,Golden State Warriors,-5.0
+"Sun, May 12, 2019",Denver Nuggets,Portland Trail Blazers,-4.0
+"Sun, May 12, 2019",Toronto Raptors,Philadelphia 76ers,2.0
+"Tue, May 14, 2019",Golden State Warriors,Portland Trail Blazers,22.0
+"Wed, May 15, 2019",Milwaukee Bucks,Toronto Raptors,8.0
+"Thu, May 16, 2019",Golden State Warriors,Portland Trail Blazers,3.0
+"Fri, May 17, 2019",Milwaukee Bucks,Toronto Raptors,22.0
+"Sat, May 18, 2019",Portland Trail Blazers,Golden State Warriors,-11.0
+"Sun, May 19, 2019",Toronto Raptors,Milwaukee Bucks,6.0
+"Mon, May 20, 2019",Portland Trail Blazers,Golden State Warriors,-2.0
+"Tue, May 21, 2019",Toronto Raptors,Milwaukee Bucks,18.0
+"Thu, May 23, 2019",Milwaukee Bucks,Toronto Raptors,-6.0
+"Sat, May 25, 2019",Toronto Raptors,Milwaukee Bucks,6.0
+"Thu, May 30, 2019",Toronto Raptors,Golden State Warriors,9.0
+"Sun, Jun 2, 2019",Toronto Raptors,Golden State Warriors,-5.0
+"Wed, Jun 5, 2019",Golden State Warriors,Toronto Raptors,-14.0
+"Fri, Jun 7, 2019",Golden State Warriors,Toronto Raptors,-13.0
+"Mon, Jun 10, 2019",Toronto Raptors,Golden State Warriors,-1.0
+"Thu, Jun 13, 2019",Golden State Warriors,Toronto Raptors,-4.0
