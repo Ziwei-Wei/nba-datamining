@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 
-def getScheduleHeader(year):
+def getHeader(year):
     url = "https://www.basketball-reference.com/leagues/NBA_{}_games.html".format(
         year)
     html = urlopen(url)
@@ -38,7 +38,7 @@ def getSchedule(year, month):
 def getYearlySchedule(year):
     monthList = ["october", "november", "december", "january",
                  "february", "march", "april", "may", "june"]
-    header = getScheduleHeader(year)
+    header = getHeader(year)
     monthlySchedule = []
     for month in monthList:
         monthlySchedule.append(getSchedule(year, month))
