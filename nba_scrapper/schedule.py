@@ -23,23 +23,27 @@ def getHeader(year):
 def getSchedule(year, month):
     url = "https://www.basketball-reference.com/leagues/NBA_{}_games-{}.html".format(
         year, month)
-    html = urlopen(url)
-    soup = BeautifulSoup(html, features="html5lib")
-    rows = soup.findAll('tr')
-    schedule = []
-    for i in range(1, len(rows)):
-        scheduleItem = []
-        for th in rows[i].findAll('th'):
-            scheduleItem.append(th.getText())
-        for td in rows[i].findAll('td'):
-            if td.get("data-stat") == "box_score_text":
-                scheduleItem.append("https://www.basketball-reference.com" +
-                                    td.find("a").get("href"))
-            else:
-                scheduleItem.append(td.getText())
+    try:
+        html = urlopen(url)
+    except:
+        print("URL does not exist! In getSchedule")
+    else:
+        soup = BeautifulSoup(html, features="html5lib")
+        rows = soup.findAll('tr')
+        schedule = []
+        for i in range(1, len(rows)):
+            scheduleItem = []
+            for th in rows[i].findAll('th'):
+                scheduleItem.append(th.getText())
+            for td in rows[i].findAll('td'):
+                if td.get("data-stat") == "box_score_text":
+                    scheduleItem.append("https://www.basketball-reference.com" +
+                                        td.find("a").get("href"))
+                else:
+                    scheduleItem.append(td.getText())
 
-        schedule.append(scheduleItem)
-    return pd.DataFrame(schedule)
+            schedule.append(scheduleItem)
+        return pd.DataFrame(schedule)
 
 
 def getYearlySchedule(year):

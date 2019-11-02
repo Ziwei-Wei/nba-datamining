@@ -22,37 +22,42 @@ def getHeader(year, type="totals"):
 def getStats(year, num=math.inf, type="totals"):
     url = "https://www.basketball-reference.com/leagues/NBA_{}_{}.html".format(
         year, type)
-    html = urlopen(url)
-    soup = BeautifulSoup(html, features="html5lib")
-    rows = soup.findAll('tr')
-    stats = []
-    if num >= len(rows):
-        num = len(rows)
-    for i in range(1, num):
-        statsItem = []
-        for th in rows[i].findAll('th'):
-            statsItem.append(th.getText())
-        for td in rows[i].findAll('td'):
-            statsItem.append(td.getText())
-            if td.get("data-stat") == "player":
-                playerUrl = td.find("a").get('href')
-                height = ""
-                weight = ""
-                if playerUrl:
-                    playerHtml = urlopen(
-                        "https://www.basketball-reference.com" + playerUrl)
-                    playerSoup = BeautifulSoup(playerHtml, features="html5lib")
-                    height = playerSoup.find(
-                        "span", itemprop="height").text
-                    weight = playerSoup.find(
-                        "span", itemprop="weight").text
-                statsItem.append(height)
-                statsItem.append(weight)
+    try:
+        html = urlopen(url)
+    except:
+        print("URL does not exist!")
+    else:
+        soup = BeautifulSoup(html, features="html5lib")
+        rows = soup.findAll('tr')
+        stats = []
+        if num >= len(rows):
+            num = len(rows)
+        for i in range(1, num):
+            statsItem = []
+            for th in rows[i].findAll('th'):
+                statsItem.append(th.getText())
+            for td in rows[i].findAll('td'):
+                statsItem.append(td.getText())
+                if td.get("data-stat") == "player":
+                    playerUrl = td.find("a").get('href')
+                    height = ""
+                    weight = ""
+                    if playerUrl:
+                        playerHtml = urlopen(
+                            "https://www.basketball-reference.com" + playerUrl)
+                        playerSoup = BeautifulSoup(
+                            playerHtml, features="html5lib")
+                        height = playerSoup.find(
+                            "span", itemprop="height").text
+                        weight = playerSoup.find(
+                            "span", itemprop="weight").text
+                    statsItem.append(height)
+                    statsItem.append(weight)
 
-        stats.append(statsItem)
-    res = pd.DataFrame(stats)
-    res = res[res[1] != "Player"]
-    return res
+            stats.append(statsItem)
+        res = pd.DataFrame(stats)
+        res = res[res[1] != "Player"]
+        return res
 
 
 def getYearlyStat(year, num=math.inf, type="totals"):
