@@ -6,18 +6,22 @@ import pandas as pd
 def getHeader(year):
     url = "https://www.basketball-reference.com/leagues/NBA_{}_games.html".format(
         year)
-    html = urlopen(url)
-    soup = BeautifulSoup(html, features="html5lib")
-    soup.findAll('tr', limit=2)
-    header = []
-    for th in soup.findAll('tr', limit=2)[0].findAll('th'):
-        t = th.getText()
-        if t == "PTS":
-            t = th.get("aria-label")
-        if t == "\xa0":
-            t = th.get("data-stat")
-        header.append(t)
-    return header
+    try:
+        html = urlopen(url)
+    except:
+        print("URL does not exist! In getHeader")
+    else:
+        soup = BeautifulSoup(html, features="html5lib")
+        soup.findAll('tr', limit=2)
+        header = []
+        for th in soup.findAll('tr', limit=2)[0].findAll('th'):
+            t = th.getText()
+            if t == "PTS":
+                t = th.get("aria-label")
+            if t == "\xa0":
+                t = th.get("data-stat")
+            header.append(t)
+        return header
 
 
 def getSchedule(year, month):

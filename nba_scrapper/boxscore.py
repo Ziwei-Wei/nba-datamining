@@ -143,12 +143,13 @@ def getBoxscoreByUrl(url, home, away):
         return homeStats, awayStats
 
 
-def getBoxscore(year, month, saveToDisk=False, path="../data/boxscore"):
+def recordBoxscore(year, month, path="../data/boxscore"):
     schedule_table = schedule.getSchedule(year, month)
     schedule_header = schedule.getHeader(year)
     schedule_table.columns = schedule_header
-    boxscore_list = []
     for _, row in schedule_table.iterrows():
+        if row["Date"] == "Playoffs":
+            return False
         dateTokens = row["Date"].replace(
             ' ', '_').replace(',', '').split("_")
         date = dateTokens[3] + "_" + \
@@ -156,35 +157,31 @@ def getBoxscore(year, month, saveToDisk=False, path="../data/boxscore"):
         home = teamDict[row["Home/Neutral"]]
         away = teamDict[row["Visitor/Neutral"]]
         url = row["box_score_text"]
-        print(home + " vs " + away)
+        print("Process " + home + " vs " + away)
         boxscore_home, boxscore_away = getBoxscoreByUrl(url, home, away)
-        print(boxscore_home)
-        print(boxscore_away)
-        if saveToDisk == True:
-            if not os.path.exists(path):
-                os.mkdir(path)
-            save(boxscore_home, "csv", path +
-                 "/boxscore_{}_{}_{}_home.csv".format(date, home, away))
-            save(boxscore_away, "csv", path +
-                 "/boxscore_{}_{}_{}_away.csv".format(date, home, away))
-        boxscore = [boxscore_home, boxscore_away]
-        boxscore_list.append(boxscore)
-    return boxscore_list
+        print("Processed " + home + " vs " + away)
+        if not os.path.exists(path):
+            os.mkdir(path)
+        save(boxscore_home, "csv", path +
+             "/boxscore_{}_{}_{}_home.csv".format(date, home, away))
+        save(boxscore_away, "csv", path +
+             "/boxscore_{}_{}_{}_away.csv".format(date, home, away))
+        print("Saved " + home + " vs " + away)
 
 
-def getBoxscoreByYear(year, saveToDisk=False, path="../data/boxscore"):
+def recordBoxscoreByYear(year):
     monthList = ["october", "november", "december", "january",
                  "february", "march", "april", "may", "june"]
-    yearlyBoxscores = []
     for month in monthList:
-        yearlyBoxscores.extend(getBoxscore(year, month, saveToDisk, path))
-    if saveToDisk == False:
-        return yearlyBoxscores
+        print("Process Year {} Month {}".format(year, month))
+        if recordBoxscore(year, month, "../data/boxscore/{}".format(year)) == False:
+            return
 
 
 def recordBetween(startYear, endYear, format="csv"):
     for year in range(startYear, endYear):
-        getBoxscoreByYear(year, True)
+        recordBoxscoreByYear(year)
+    return
 
 
 def save(data, format, path):
@@ -193,4 +190,4 @@ def save(data, format, path):
 
 
 if __name__ == "__main__":
-    recordBetween(2015, 2020)
+    recordBetween(2016, 2019)
