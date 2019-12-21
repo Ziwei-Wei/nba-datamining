@@ -2,6 +2,7 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import pandas as pd
 import math
+import time
 
 
 def getHeader(year, type="totals"):
@@ -27,12 +28,15 @@ def getStats(year, num=math.inf, type="totals"):
     except:
         print("URL does not exist!")
     else:
+        time.sleep(1)
         soup = BeautifulSoup(html, features="html5lib")
         rows = soup.findAll('tr')
         stats = []
         if num >= len(rows):
             num = len(rows)
         for i in range(1, num):
+            print("process no.{} in year {}".format(i, year))
+            time.sleep(1)
             statsItem = []
             for th in rows[i].findAll('th'):
                 statsItem.append(th.getText())
@@ -68,17 +72,16 @@ def getYearlyStat(year, num=math.inf, type="totals"):
 
 
 def reorganize(stats):
-    stats.drop(["Rk", "G", "GS", "FG", "FGA", "FG%", "2P%", "3P%", "FT%", "eFG%",
+    stats.drop(["Age", "Rk", "G", "GS", "FG", "FGA", "FG%", "2P%", "3P%", "FT%", "eFG%",
                 "TRB"], inplace=True, axis=1)
     numeric = ["MP", "3P", "3PA", "2P", "2PA", "FT", "FTA",
                "ORB", "DRB", "AST", "STL", "BLK", "TOV", "PF", "PTS"]
     for tag in numeric:
         stats[tag] = pd.to_numeric(stats[tag])
-    numericStats = stats.groupby(['Player'], as_index=False)["MP", "3P", "3PA", "2P", "2PA",
-                                                             "FT", "FTA", "ORB", "DRB", "AST", "STL", "BLK", "TOV", "PF", "PTS"].sum().drop("Player", 1)
-    res = pd.concat([stats["Player"], stats["Pos"],
-                     stats["Height"], stats["Weight"], numericStats], axis=1)
-    return res
+
+    numericStats = stats.groupby(
+        ['Player', "Height", "Weight", "Pos"], as_index=False).sum()
+    return numericStats
 
 
 def save(data, format, path):
@@ -90,14 +93,17 @@ def recordBetween(startYear, endYear, format="csv"):
     for year in range(startYear, endYear):
         print("Processing year %d" % year)
         stats = reorganize(getYearlyStat(year))
-        path = "./nba_player_stats_{}.csv".format(year)
+        path = "./data/player/nba_player_stats_{}.csv".format(year)
         save(stats, format, path)
 
 
 if __name__ == "__main__":
+    '''
     header = getHeader(2019)
     print(header)
-    stats = getYearlyStat(2019, 10)
-    print(stats.head(10))
+    stats = getYearlyStat(2019, 20)
+    print(stats)
     stats = reorganize(stats)
-    print(stats.head(10))
+    print(stats)
+    '''
+    recordBetween(2015, 2020)

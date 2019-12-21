@@ -7,7 +7,7 @@ def getHeader(year):
     url = "https://www.basketball-reference.com/leagues/NBA_{}_games.html".format(
         year)
     try:
-        html = urlopen(url)
+        html = urlopen(url, timeout=10000)
     except:
         print("URL does not exist! In getHeader")
     else:
@@ -28,7 +28,7 @@ def getSchedule(year, month):
     url = "https://www.basketball-reference.com/leagues/NBA_{}_games-{}.html".format(
         year, month)
     try:
-        html = urlopen(url)
+        html = urlopen(url, timeout=10000)
     except:
         print("URL does not exist! In getSchedule")
     else:

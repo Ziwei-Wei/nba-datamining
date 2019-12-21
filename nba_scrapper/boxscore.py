@@ -4,6 +4,7 @@ import pandas as pd
 import math
 import schedule
 import os
+import time
 
 teamDict = {
     'Atlanta Hawks': 'ATL',
@@ -53,7 +54,7 @@ dateDict = {
 
 def getTeams():
     url = "https://www.basketball-reference.com/teams/"
-    html = urlopen(url)
+    html = urlopen(url, timeout=10)
     soup = BeautifulSoup(html, features="html5lib")
     active = soup.find("table", {"id": "teams_active"})
     teamList = []
@@ -71,7 +72,7 @@ def getTeams():
 
 def getTeamsDict():
     url = "https://www.basketball-reference.com/teams/"
-    html = urlopen(url)
+    html = urlopen(url, timeout=10000)
     soup = BeautifulSoup(html, features="html5lib")
     active = soup.find("table", {"id": "teams_active"})
     teamList = []
@@ -89,25 +90,31 @@ def getTeamsDict():
 
 
 def getHeader(url):
-    html = urlopen(url)
-    soup = BeautifulSoup(html, features="html5lib")
-    soup.findAll('tr')
-    header = []
-    for th in soup.findAll('tr', limit=2)[1].findAll('th'):
-        if th.getText() == "Starters":
-            header.append("Players")
-        else:
-            header.append(th.getText())
-    return header
+    try:
+        html = urlopen(url, timeout=10000)
+    except:
+        print("URL does not exist! In getBoxscoreByUrl")
+    else:
+        soup = BeautifulSoup(html, features="html5lib")
+        soup.findAll('tr')
+        header = []
+        for th in soup.findAll('tr', limit=2)[1].findAll('th'):
+            if th.getText() == "Starters":
+                header.append("Players")
+            else:
+                header.append(th.getText())
+        return header
 
 
 def getBoxscoreByUrl(url, home, away):
     try:
         header = getHeader(url)
-        html = urlopen(url)
+        html = urlopen(url, timeout=10000)
     except:
         print("URL does not exist! In getBoxscoreByUrl")
     else:
+        print("Url read")
+        time.sleep(1)
         soup = BeautifulSoup(html, features="html5lib")
         homeDiv = soup.find('table', {"id": "box-{}-game-basic".format(home)})
         awayDiv = soup.find('table', {"id": "box-{}-game-basic".format(away)})
@@ -137,7 +144,7 @@ def getBoxscoreByUrl(url, home, away):
                 statsItem.append(td.getText())
             if statsItem[0] != "Reserves" and statsItem[1] != "Did Not Play" and statsItem[1] != "Did Not Dress":
                 awayStats.append(statsItem)
-
+        print("Processed")
         homeStats = pd.DataFrame(homeStats, columns=header)
         awayStats = pd.DataFrame(awayStats, columns=header)
         return homeStats, awayStats
@@ -167,15 +174,18 @@ def recordBoxscore(year, month, path="../data/boxscore"):
         save(boxscore_away, "csv", path +
              "/boxscore_{}_{}_{}_away.csv".format(date, home, away))
         print("Saved " + home + " vs " + away)
+    return True
 
 
 def recordBoxscoreByYear(year):
     monthList = ["october", "november", "december", "january",
                  "february", "march", "april", "may", "june"]
     for month in monthList:
+        time.sleep(60)
         print("Process Year {} Month {}".format(year, month))
         if recordBoxscore(year, month, "../data/boxscore/{}".format(year)) == False:
-            return
+            break
+    return
 
 
 def recordBetween(startYear, endYear, format="csv"):
@@ -190,4 +200,5 @@ def save(data, format, path):
 
 
 if __name__ == "__main__":
-    recordBetween(2016, 2019)
+    recordBetween(2018, 2020)
+    input('Press ENTER to exit')
